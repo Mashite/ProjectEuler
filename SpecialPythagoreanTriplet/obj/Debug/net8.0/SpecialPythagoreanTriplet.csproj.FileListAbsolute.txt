@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\bin\Debug\net8.0\SpecialPythagoreanTriplet.exe
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\bin\Debug\net8.0\SpecialPythagoreanTriplet.deps.json
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\bin\Debug\net8.0\SpecialPythagoreanTriplet.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\bin\Debug\net8.0\SpecialPythagoreanTriplet.dll
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\bin\Debug\net8.0\SpecialPythagoreanTriplet.pdb
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\obj\Debug\net8.0\SpecialPythagoreanTriplet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\obj\Debug\net8.0\SpecialPythagoreanTriplet.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\obj\Debug\net8.0\SpecialPythagoreanTriplet.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\obj\Debug\net8.0\SpecialPythagoreanTriplet.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\obj\Debug\net8.0\SpecialPythagoreanTriplet.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\obj\Debug\net8.0\SpecialPythagoreanTriplet.dll
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\obj\Debug\net8.0\refint\SpecialPythagoreanTriplet.dll
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\obj\Debug\net8.0\SpecialPythagoreanTriplet.pdb
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\obj\Debug\net8.0\SpecialPythagoreanTriplet.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\SpecialPythagoreanTriplet\obj\Debug\net8.0\ref\SpecialPythagoreanTriplet.dll

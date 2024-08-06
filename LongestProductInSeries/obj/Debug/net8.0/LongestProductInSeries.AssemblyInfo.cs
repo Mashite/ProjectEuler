@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LongestProductInSeries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf115470c818809c6d810def007e42d3fe78171f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LongestProductInSeries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LongestProductInSeries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

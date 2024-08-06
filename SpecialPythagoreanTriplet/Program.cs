@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using SpecialPythagoreanTriplet;
+
+Solution solution=new Solution();
+int result = solution.Solve();
+Console.WriteLine(result);
