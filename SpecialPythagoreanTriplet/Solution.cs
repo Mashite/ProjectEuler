@@ -25,7 +25,6 @@ namespace SpecialPythagoreanTriplet
 
             return 0;
         }
-
         static bool IsPerfectSquare(int number, out int root)
         {
             if (number < 0)
