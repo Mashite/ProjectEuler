@@ -25,8 +25,11 @@ namespace SummationofPrimes
                         break;
                     }
                 }
-                if(isPrime) primes.Add(i);
-                sum += i;
+                if (isPrime)
+                {
+                    primes.Add(i);
+                    sum += i;
+                }
             }
             return sum;
         }

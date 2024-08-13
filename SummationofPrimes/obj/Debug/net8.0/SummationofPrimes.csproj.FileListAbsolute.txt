@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\bin\Debug\net8.0\SummationofPrimes.exe
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\bin\Debug\net8.0\SummationofPrimes.deps.json
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\bin\Debug\net8.0\SummationofPrimes.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\bin\Debug\net8.0\SummationofPrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\bin\Debug\net8.0\SummationofPrimes.pdb
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\obj\Debug\net8.0\refint\SummationofPrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.pdb
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\SummationofPrimes\obj\Debug\net8.0\ref\SummationofPrimes.dll

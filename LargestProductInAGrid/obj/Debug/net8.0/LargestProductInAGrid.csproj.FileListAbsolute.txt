@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\bin\Debug\net8.0\LargestProductInAGrid.exe
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\bin\Debug\net8.0\LargestProductInAGrid.deps.json
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\bin\Debug\net8.0\LargestProductInAGrid.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\bin\Debug\net8.0\LargestProductInAGrid.dll
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\bin\Debug\net8.0\LargestProductInAGrid.pdb
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\obj\Debug\net8.0\LargestProductInAGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\obj\Debug\net8.0\LargestProductInAGrid.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\obj\Debug\net8.0\LargestProductInAGrid.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\obj\Debug\net8.0\LargestProductInAGrid.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\obj\Debug\net8.0\LargestProductInAGrid.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\obj\Debug\net8.0\LargestProductInAGrid.dll
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\obj\Debug\net8.0\refint\LargestProductInAGrid.dll
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\obj\Debug\net8.0\LargestProductInAGrid.pdb
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\obj\Debug\net8.0\LargestProductInAGrid.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\LargestProductInAGrid\obj\Debug\net8.0\ref\LargestProductInAGrid.dll
