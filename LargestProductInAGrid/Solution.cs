@@ -33,7 +33,8 @@ namespace LargestProductInAGrid
             };
 
 
-            int bigProduct = 1;
+            int bigProduct = 0;
+            int product = 0;
 
             for (int i = 0; i < grid.GetLength(0); i++)
             {
@@ -44,12 +45,9 @@ namespace LargestProductInAGrid
                     if (grid[i, j + 2] == 0) { j += 2; continue; }
                     if (grid[i, j + 3] == 0) { j += 3; continue; }
 
-                    int product = grid[i, j] * grid[i, j + 1] * grid[i, j + 2] * grid[i, j + 3];
-                    if (product > bigProduct)
-                    {
-                        bigProduct = product;
-                        Console.WriteLine(i + " " + j + " " + bigProduct + " " + grid[i, j] + " " + grid[i, j + 1] + " " + grid[i, j + 2] + " " + grid[i, j + 3]);
-                    }
+                    product = grid[i, j] * grid[i, j + 1] * grid[i, j + 2] * grid[i, j + 3];
+                    if (product > bigProduct)                    
+                        bigProduct = product;                        
                 }
             }
 
@@ -62,12 +60,9 @@ namespace LargestProductInAGrid
                     if (grid[i + 2, j] == 0) { i += 2; continue; }
                     if (grid[i + 3, j] == 0) { i += 3; continue; }
 
-                    int product = grid[i, j] * grid[i + 1, j] * grid[i + 2, j] * grid[i + 3, j];
+                    product = grid[i, j] * grid[i + 1, j] * grid[i + 2, j] * grid[i + 3, j];
                     if (product > bigProduct)
-                    {
-                        bigProduct = product;
-                        Console.WriteLine(i + " " + j + " " + bigProduct + " " + grid[i, j] + " " + grid[i + 1, j] + " " + grid[i + 2, j] + " " + grid[i + 3, j]);
-                    }
+                        bigProduct = product;                       
                 }
             }
 
@@ -82,12 +77,9 @@ namespace LargestProductInAGrid
                     if (grid[i + 2, j + 2] == 0) { j += 2; continue; }
                     if (grid[i + 3, j + 3] == 0) { j += 3; continue; }
 
-                    int product = grid[i, j] * grid[i + 1, j+1] * grid[i + 2, j+2] * grid[i + 3, j+3];
-                    if (product > bigProduct)
-                    {
+                    product = grid[i, j] * grid[i + 1, j+1] * grid[i + 2, j+2] * grid[i + 3, j+3];
+                    if (product > bigProduct)                    
                         bigProduct = product;
-                        Console.WriteLine(i + " " + j + " " + bigProduct + " " + grid[i, j] + " " + grid[i + 1, j+1] + " " + grid[i + 2, j + 2 ] + " " + grid[i + 3, j+3]);
-                    }
                 }
             }
 
@@ -95,18 +87,14 @@ namespace LargestProductInAGrid
             {
                 for (int j = 4; j < grid.GetLength(1) - 4; j++)
                 {
-
                     if (grid[i, j] == 0) continue;
                     if (grid[i + 1, j - 1] == 0) { j++; continue; }
                     if (grid[i + 2, j - 2] == 0) { j += 2; continue; }
                     if (grid[i + 3, j - 3] == 0) { j += 3; continue; }
 
-                    int product = grid[i, j] * grid[i + 1, j - 1] * grid[i + 2, j - 2] * grid[i + 3, j - 3];
+                    product = grid[i, j] * grid[i + 1, j - 1] * grid[i + 2, j - 2] * grid[i + 3, j - 3];
                     if (product > bigProduct)
-                    {
                         bigProduct = product;
-                        Console.WriteLine(i + " " + j + " " + bigProduct + " " + grid[i, j] + " " + grid[i + 1, j - 1] + " " + grid[i + 2, j -2] + " " + grid[i + 3, j - 3]);
-                    }
                 }
             }
 
