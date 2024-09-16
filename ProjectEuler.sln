@@ -30,7 +30,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestProductInAGrid", "La
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-12", "Problem-12", "{09CCAD94-CCB0-4815-9002-41CCFE9AC765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighlyDivisibleTriangularNumber", "HighlyDivisibleTriangularNumber\HighlyDivisibleTriangularNumber.csproj", "{F9BE047F-8F3A-42BC-974D-3D2D6976F8DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighlyDivisibleTriangularNumber", "HighlyDivisibleTriangularNumber\HighlyDivisibleTriangularNumber.csproj", "{F9BE047F-8F3A-42BC-974D-3D2D6976F8DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-13", "Problem-13", "{FF802951-AEDB-4542-B218-CD3537523752}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargeSum", "LargeSum\LargeSum.csproj", "{B449F30E-58C0-44FD-84EA-03B4B7D172DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-14", "Problem-14", "{6888FFFE-98C1-410D-84F6-ABAD5D2E18EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCollatzSequence", "LongestCollatzSequence\LongestCollatzSequence.csproj", "{58BF84D3-678C-4BAC-90BD-C58A79E881B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +70,14 @@ Global
 		{F9BE047F-8F3A-42BC-974D-3D2D6976F8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9BE047F-8F3A-42BC-974D-3D2D6976F8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9BE047F-8F3A-42BC-974D-3D2D6976F8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B449F30E-58C0-44FD-84EA-03B4B7D172DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B449F30E-58C0-44FD-84EA-03B4B7D172DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B449F30E-58C0-44FD-84EA-03B4B7D172DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B449F30E-58C0-44FD-84EA-03B4B7D172DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58BF84D3-678C-4BAC-90BD-C58A79E881B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BF84D3-678C-4BAC-90BD-C58A79E881B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BF84D3-678C-4BAC-90BD-C58A79E881B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BF84D3-678C-4BAC-90BD-C58A79E881B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +89,8 @@ Global
 		{ACC894E9-7E1C-4FDA-A1D1-C43CEE730654} = {C225973C-C2F1-4D8E-BA2F-8307C39FD9FC}
 		{DB28B8CD-CBF0-49FB-B7B3-280F99DEDE4B} = {20F1E887-62F9-440E-9DB2-87CD9C8107E7}
 		{F9BE047F-8F3A-42BC-974D-3D2D6976F8DC} = {09CCAD94-CCB0-4815-9002-41CCFE9AC765}
+		{B449F30E-58C0-44FD-84EA-03B4B7D172DE} = {FF802951-AEDB-4542-B218-CD3537523752}
+		{58BF84D3-678C-4BAC-90BD-C58A79E881B0} = {6888FFFE-98C1-410D-84F6-ABAD5D2E18EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}
