@@ -12,7 +12,7 @@ namespace LatticePaths
 		public BigInteger Solve(int n)
 		{
 			BigInteger D = Factorial(n * 2);
-			BigInteger P= Factorial(n);
+			BigInteger P=  Factorial(n);
 			BigInteger One = P * P;
 			BigInteger Two = D/One;
 			return Two;

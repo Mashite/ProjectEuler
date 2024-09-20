@@ -44,6 +44,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-15", "Problem-15", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatticePaths", "LatticePaths\LatticePaths.csproj", "{2DBA4E43-6144-45A6-868D-0E5574CAB881}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-16", "Problem-16", "{BD569062-E760-495C-8DDB-DE97C6BF1DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerDigitSum", "PowerDigitSum\PowerDigitSum.csproj", "{130F19F2-13C4-4A99-8A19-EB859F9C8587}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +90,10 @@ Global
 		{2DBA4E43-6144-45A6-868D-0E5574CAB881}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DBA4E43-6144-45A6-868D-0E5574CAB881}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DBA4E43-6144-45A6-868D-0E5574CAB881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130F19F2-13C4-4A99-8A19-EB859F9C8587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130F19F2-13C4-4A99-8A19-EB859F9C8587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130F19F2-13C4-4A99-8A19-EB859F9C8587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130F19F2-13C4-4A99-8A19-EB859F9C8587}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,6 +108,7 @@ Global
 		{B449F30E-58C0-44FD-84EA-03B4B7D172DE} = {FF802951-AEDB-4542-B218-CD3537523752}
 		{58BF84D3-678C-4BAC-90BD-C58A79E881B0} = {6888FFFE-98C1-410D-84F6-ABAD5D2E18EB}
 		{2DBA4E43-6144-45A6-868D-0E5574CAB881} = {B1656AA3-8859-4C66-9B08-8C890FF007CB}
+		{130F19F2-13C4-4A99-8A19-EB859F9C8587} = {BD569062-E760-495C-8DDB-DE97C6BF1DEC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}
