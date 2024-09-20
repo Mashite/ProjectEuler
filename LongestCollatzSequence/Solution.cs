@@ -12,7 +12,7 @@ namespace LongestCollatzSequence
         {
             long longest = 0;
             long index = 0;
-            for(int i= 1;i<900000;i++)
+            for(int i= 1;i<1000000;i++)
             {
                 long count = CollatzSequence(i);
 
