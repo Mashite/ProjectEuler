@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\bin\Debug\net8.0\LongestProductInSeries.exe
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\bin\Debug\net8.0\LongestProductInSeries.deps.json
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\bin\Debug\net8.0\LongestProductInSeries.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\bin\Debug\net8.0\LongestProductInSeries.dll
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\bin\Debug\net8.0\LongestProductInSeries.pdb
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\obj\Debug\net8.0\LongestProductInSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\obj\Debug\net8.0\LongestProductInSeries.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\obj\Debug\net8.0\LongestProductInSeries.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\obj\Debug\net8.0\LongestProductInSeries.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\obj\Debug\net8.0\LongestProductInSeries.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\obj\Debug\net8.0\LongestProductInSeries.dll
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\obj\Debug\net8.0\refint\LongestProductInSeries.dll
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\obj\Debug\net8.0\LongestProductInSeries.pdb
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\obj\Debug\net8.0\LongestProductInSeries.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\LongestProductInSeries\obj\Debug\net8.0\ref\LongestProductInSeries.dll
