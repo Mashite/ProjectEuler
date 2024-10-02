@@ -5,3 +5,6 @@ Solution solution = new Solution();
 string result = solution.Solve();
 Console.WriteLine(result);
 Console.WriteLine(result.Length);
+
+int count = solution.Solve2();
+Console.WriteLine(count);

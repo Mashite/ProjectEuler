@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\bin\Debug\net8.0\MaximumPathSumI.exe
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\bin\Debug\net8.0\MaximumPathSumI.deps.json
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\bin\Debug\net8.0\MaximumPathSumI.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\bin\Debug\net8.0\MaximumPathSumI.dll
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\bin\Debug\net8.0\MaximumPathSumI.pdb
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\obj\Debug\net8.0\MaximumPathSumI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\obj\Debug\net8.0\MaximumPathSumI.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\obj\Debug\net8.0\MaximumPathSumI.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\obj\Debug\net8.0\MaximumPathSumI.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\obj\Debug\net8.0\MaximumPathSumI.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\obj\Debug\net8.0\MaximumPathSumI.dll
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\obj\Debug\net8.0\refint\MaximumPathSumI.dll
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\obj\Debug\net8.0\MaximumPathSumI.pdb
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\obj\Debug\net8.0\MaximumPathSumI.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\MaximumPathSumI\obj\Debug\net8.0\ref\MaximumPathSumI.dll
