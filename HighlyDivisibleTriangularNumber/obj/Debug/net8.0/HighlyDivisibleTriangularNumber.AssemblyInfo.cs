@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HighlyDivisibleTriangularNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6208afb41163d6b7f144da68c8cba541f00156b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+085a1ceff11745fdf738ba6b323fd7ac4be47bd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("HighlyDivisibleTriangularNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HighlyDivisibleTriangularNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

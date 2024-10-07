@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\bin\Debug\net8.0\FactorialDigitSum.exe
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\bin\Debug\net8.0\FactorialDigitSum.deps.json
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\bin\Debug\net8.0\FactorialDigitSum.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\bin\Debug\net8.0\FactorialDigitSum.dll
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\bin\Debug\net8.0\FactorialDigitSum.pdb
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\obj\Debug\net8.0\FactorialDigitSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\obj\Debug\net8.0\FactorialDigitSum.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\obj\Debug\net8.0\FactorialDigitSum.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\obj\Debug\net8.0\FactorialDigitSum.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\obj\Debug\net8.0\FactorialDigitSum.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\obj\Debug\net8.0\FactorialDigitSum.dll
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\obj\Debug\net8.0\refint\FactorialDigitSum.dll
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\obj\Debug\net8.0\FactorialDigitSum.pdb
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\obj\Debug\net8.0\FactorialDigitSum.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\FactorialDigitSum\obj\Debug\net8.0\ref\FactorialDigitSum.dll
