@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\bin\Debug\net8.0\AmicableNumbers.exe
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\bin\Debug\net8.0\AmicableNumbers.deps.json
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\bin\Debug\net8.0\AmicableNumbers.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\bin\Debug\net8.0\AmicableNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\bin\Debug\net8.0\AmicableNumbers.pdb
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\obj\Debug\net8.0\AmicableNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\obj\Debug\net8.0\AmicableNumbers.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\obj\Debug\net8.0\AmicableNumbers.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\obj\Debug\net8.0\AmicableNumbers.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\obj\Debug\net8.0\AmicableNumbers.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\obj\Debug\net8.0\AmicableNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\obj\Debug\net8.0\refint\AmicableNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\obj\Debug\net8.0\AmicableNumbers.pdb
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\obj\Debug\net8.0\AmicableNumbers.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\AmicableNumbers\obj\Debug\net8.0\ref\AmicableNumbers.dll
