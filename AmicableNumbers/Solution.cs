@@ -31,7 +31,6 @@ namespace AmicableNumbers
             }
             return found.Sum();
         }
-
         public List<int> Primes(long k)
         {
             List<int> primes = new List<int>();
@@ -85,7 +84,6 @@ namespace AmicableNumbers
                             j = 0;
                         }
                         i++;
-
                     }
                 }
             }
@@ -95,7 +93,6 @@ namespace AmicableNumbers
             int sum = divs.Sum(i => i);
             return sum;
         }
-
         static List<int> GenerateDivisors(List<(int, int)> primeFactors)
         {
             var divisors = new List<int> { 1 };  // Start with 1 as the first divisor

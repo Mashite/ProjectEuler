@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecialPythagoreanTriplet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a863149bb13ae913abc26e5a6b2dfa109cd207e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f495763eca769927d32eda6820c5a033416580")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecialPythagoreanTriplet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecialPythagoreanTriplet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
