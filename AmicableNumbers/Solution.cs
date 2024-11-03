@@ -112,9 +112,7 @@ namespace AmicableNumbers
                         power *= prime; // Multiply by the prime to get the next power
                     }
                 }
-
                 divisors = newDivisors;
-
             }
 
             return divisors;

@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\bin\Debug\net8.0\LexicographicPermutations.exe
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\bin\Debug\net8.0\LexicographicPermutations.deps.json
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\bin\Debug\net8.0\LexicographicPermutations.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\bin\Debug\net8.0\LexicographicPermutations.dll
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\bin\Debug\net8.0\LexicographicPermutations.pdb
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\obj\Debug\net8.0\LexicographicPermutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\obj\Debug\net8.0\LexicographicPermutations.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\obj\Debug\net8.0\LexicographicPermutations.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\obj\Debug\net8.0\LexicographicPermutations.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\obj\Debug\net8.0\LexicographicPermutations.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\obj\Debug\net8.0\LexicographicPermutations.dll
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\obj\Debug\net8.0\refint\LexicographicPermutations.dll
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\obj\Debug\net8.0\LexicographicPermutations.pdb
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\obj\Debug\net8.0\LexicographicPermutations.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\LexicographicPermutations\obj\Debug\net8.0\ref\LexicographicPermutations.dll
