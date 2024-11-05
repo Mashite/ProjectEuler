@@ -76,9 +76,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-23", "Problem-23", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NonAbundantSums", "NonAbundantSums\NonAbundantSums.csproj", "{81747AC8-252F-4B9F-91A8-5A03993F180A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem24", "Problem24", "{033407F7-68FB-4653-82DE-35E7C61861D5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-24", "Problem-24", "{033407F7-68FB-4653-82DE-35E7C61861D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicographicPermutations", "LexicographicPermutations\LexicographicPermutations.csproj", "{1E6754D6-1AB8-4202-A0D4-52BF5739D3BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LexicographicPermutations", "LexicographicPermutations\LexicographicPermutations.csproj", "{1E6754D6-1AB8-4202-A0D4-52BF5739D3BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-25", "Problem-25", "{D27526FA-99EE-4BCE-9F39-7021C8AF7B52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digit1000FibonacciNumber", "Digit1000FibonacciNumber\Digit1000FibonacciNumber.csproj", "{8E667603-D905-4723-AC99-1A055BD52835}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -158,6 +162,10 @@ Global
 		{1E6754D6-1AB8-4202-A0D4-52BF5739D3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E6754D6-1AB8-4202-A0D4-52BF5739D3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E6754D6-1AB8-4202-A0D4-52BF5739D3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E667603-D905-4723-AC99-1A055BD52835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E667603-D905-4723-AC99-1A055BD52835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E667603-D905-4723-AC99-1A055BD52835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E667603-D905-4723-AC99-1A055BD52835}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -181,6 +189,7 @@ Global
 		{2DF001FB-45C7-4B45-BF4A-9A0455E5B207} = {BD89E36B-EA30-4E63-92C2-61311D5E8A54}
 		{81747AC8-252F-4B9F-91A8-5A03993F180A} = {EB92B857-80E8-4AB0-A58C-2101C3D625E9}
 		{1E6754D6-1AB8-4202-A0D4-52BF5739D3BF} = {033407F7-68FB-4653-82DE-35E7C61861D5}
+		{8E667603-D905-4723-AC99-1A055BD52835} = {D27526FA-99EE-4BCE-9F39-7021C8AF7B52}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}
