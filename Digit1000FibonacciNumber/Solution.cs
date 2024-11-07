@@ -5,7 +5,7 @@ namespace Digit1000FibonacciNumber
 {
     public class Solution
     {
-        public BigInteger Solve(BigInteger f)
+        public int Solve()
         {
             BigInteger f1 = 1;
             BigInteger f2 = 1;
@@ -18,7 +18,6 @@ namespace Digit1000FibonacciNumber
                 f2 = f3;
                 i++;
             }
-
             return i;
         }
         public long Fibonacci(long f)
