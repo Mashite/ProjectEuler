@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\bin\Debug\net8.0\DistinctPowers.exe
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\bin\Debug\net8.0\DistinctPowers.deps.json
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\bin\Debug\net8.0\DistinctPowers.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\bin\Debug\net8.0\DistinctPowers.dll
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\bin\Debug\net8.0\DistinctPowers.pdb
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\obj\Debug\net8.0\DistinctPowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\obj\Debug\net8.0\DistinctPowers.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\obj\Debug\net8.0\DistinctPowers.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\obj\Debug\net8.0\DistinctPowers.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\obj\Debug\net8.0\DistinctPowers.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\obj\Debug\net8.0\DistinctPowers.dll
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\obj\Debug\net8.0\refint\DistinctPowers.dll
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\obj\Debug\net8.0\DistinctPowers.pdb
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\obj\Debug\net8.0\DistinctPowers.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\DistinctPowers\obj\Debug\net8.0\ref\DistinctPowers.dll

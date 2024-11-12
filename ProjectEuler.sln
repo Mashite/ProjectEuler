@@ -90,11 +90,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReciprocalCycles", "Recipro
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-27", "Problem-27", "{8281FACB-58AB-4326-8DE6-F61F7EE44D92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticPrimes", "QuadraticPrimes\QuadraticPrimes.csproj", "{2A1EC618-A09B-42EF-A013-46D6FA6FDDA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuadraticPrimes", "QuadraticPrimes\QuadraticPrimes.csproj", "{2A1EC618-A09B-42EF-A013-46D6FA6FDDA3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-28", "Problem-28", "{65500F5E-1705-4809-AD38-7A9062B66C40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberSpiralDiagonals", "NumberSpiralDiagonals\NumberSpiralDiagonals.csproj", "{712899C7-3DAD-4D05-8CC3-542AC19281D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberSpiralDiagonals", "NumberSpiralDiagonals\NumberSpiralDiagonals.csproj", "{712899C7-3DAD-4D05-8CC3-542AC19281D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-29", "Problem-29", "{2D8AFC82-C2D5-4DA1-A17F-934848E6CA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistinctPowers", "DistinctPowers\DistinctPowers.csproj", "{75414B64-33CC-40B1-8591-AA8913A54C3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -190,6 +194,10 @@ Global
 		{712899C7-3DAD-4D05-8CC3-542AC19281D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{712899C7-3DAD-4D05-8CC3-542AC19281D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{712899C7-3DAD-4D05-8CC3-542AC19281D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75414B64-33CC-40B1-8591-AA8913A54C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75414B64-33CC-40B1-8591-AA8913A54C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75414B64-33CC-40B1-8591-AA8913A54C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75414B64-33CC-40B1-8591-AA8913A54C3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -217,6 +225,7 @@ Global
 		{B9F069E4-6B37-4159-84D1-177DB805F6B1} = {81F301FE-A0D9-4BBE-B490-9F8D2506AD9B}
 		{2A1EC618-A09B-42EF-A013-46D6FA6FDDA3} = {8281FACB-58AB-4326-8DE6-F61F7EE44D92}
 		{712899C7-3DAD-4D05-8CC3-542AC19281D3} = {65500F5E-1705-4809-AD38-7A9062B66C40}
+		{75414B64-33CC-40B1-8591-AA8913A54C3F} = {2D8AFC82-C2D5-4DA1-A17F-934848E6CA1F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}
