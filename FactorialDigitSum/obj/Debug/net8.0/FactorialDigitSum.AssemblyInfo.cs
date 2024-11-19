@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FactorialDigitSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61a8c6955218dacb8111a753274893453b91702")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edb42ff1a6d2071bed41a8f456cffd4ed4663718")]
 [assembly: System.Reflection.AssemblyProductAttribute("FactorialDigitSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FactorialDigitSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

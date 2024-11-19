@@ -10,6 +10,7 @@ namespace DistinctPowers
 {
     public class Solution
     {
+        //List<int> primes = new List<int>();
         //List<(int, int)> squars = new List<(int, int)>();
         //public int Solve()
         //{
@@ -19,7 +20,7 @@ namespace DistinctPowers
         //        var result = squars.FindAll(s => s.Item1 == a);
         //        if (result.Count != 0)
         //        {
-                    
+
         //            bool check = false;
         //            for (int b = 2; b <= 100; b++)
         //            {
@@ -32,8 +33,8 @@ namespace DistinctPowers
         //                foreach ((int, int) pows in result)
         //                {
         //                    int pow = pows.Item2;
-        //                    if (b > pow && b % pow == 0 && pow * b <= 100) checkPows = true;
-                            
+        //                    if (b % pow == 0 && pow * b <= 100) checkPows = true;
+
         //                }
         //                if (!checkPows)
         //                {
@@ -102,20 +103,18 @@ namespace DistinctPowers
         public int Solve()
         {
             List<BigInteger> pows = new List<BigInteger>();
-            for(BigInteger a=2;a<=100;a++)
+            for (BigInteger a = 2; a <= 100; a++)
             {
                 BigInteger pow = a;
-                for(BigInteger b=2;b<=100;b++)
+                for (BigInteger b = 2; b <= 100; b++)
                 {
                     pow = pow * a; pows.Add(pow);
                 }
             }
 
-           return  pows.Distinct().Count();
-
-            
+            return pows.Distinct().Count();
         }
+
+        // Console.WriteLine(Enumerable.Range(2,99).SelectMany(a=>Enumerable.Range(2,99).Select(b=>BigInteger.Pow(a, b))).Distinct().Count());
     }
-
-
 }
