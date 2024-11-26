@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaximumPathSumI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edb42ff1a6d2071bed41a8f456cffd4ed4663718")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49ed2b553f33573d6510f8efbdf8f7a20f6a58a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaximumPathSumI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaximumPathSumI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

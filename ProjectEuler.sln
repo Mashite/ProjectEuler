@@ -98,11 +98,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberSpiralDiagonals", "Nu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-29", "Problem-29", "{2D8AFC82-C2D5-4DA1-A17F-934848E6CA1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistinctPowers", "DistinctPowers\DistinctPowers.csproj", "{75414B64-33CC-40B1-8591-AA8913A54C3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistinctPowers", "DistinctPowers\DistinctPowers.csproj", "{75414B64-33CC-40B1-8591-AA8913A54C3F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-30", "Problem-30", "{8AE91961-7B4E-4607-9B3D-8A792040738B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitFifthPowers", "DigitFifthPowers\DigitFifthPowers.csproj", "{A5756EE8-39D0-4738-B5F5-505498C7FCB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitFifthPowers", "DigitFifthPowers\DigitFifthPowers.csproj", "{A5756EE8-39D0-4738-B5F5-505498C7FCB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-31", "Problem-31", "{FDD3B44C-D50E-4258-A069-B178C17EA9BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinSums", "CoinSums\CoinSums.csproj", "{385A0ABB-BA6B-47B5-ADA6-B3440CBEEB90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -206,6 +210,10 @@ Global
 		{A5756EE8-39D0-4738-B5F5-505498C7FCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5756EE8-39D0-4738-B5F5-505498C7FCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5756EE8-39D0-4738-B5F5-505498C7FCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385A0ABB-BA6B-47B5-ADA6-B3440CBEEB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385A0ABB-BA6B-47B5-ADA6-B3440CBEEB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385A0ABB-BA6B-47B5-ADA6-B3440CBEEB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385A0ABB-BA6B-47B5-ADA6-B3440CBEEB90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -235,6 +243,7 @@ Global
 		{712899C7-3DAD-4D05-8CC3-542AC19281D3} = {65500F5E-1705-4809-AD38-7A9062B66C40}
 		{75414B64-33CC-40B1-8591-AA8913A54C3F} = {2D8AFC82-C2D5-4DA1-A17F-934848E6CA1F}
 		{A5756EE8-39D0-4738-B5F5-505498C7FCB5} = {8AE91961-7B4E-4607-9B3D-8A792040738B}
+		{385A0ABB-BA6B-47B5-ADA6-B3440CBEEB90} = {FDD3B44C-D50E-4258-A069-B178C17EA9BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}

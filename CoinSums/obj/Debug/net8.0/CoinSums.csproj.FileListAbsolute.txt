@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\bin\Debug\net8.0\CoinSums.exe
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\bin\Debug\net8.0\CoinSums.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\bin\Debug\net8.0\CoinSums.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\bin\Debug\net8.0\CoinSums.dll
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\bin\Debug\net8.0\CoinSums.pdb
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\obj\Debug\net8.0\CoinSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\obj\Debug\net8.0\CoinSums.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\obj\Debug\net8.0\CoinSums.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\obj\Debug\net8.0\CoinSums.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\obj\Debug\net8.0\CoinSums.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\obj\Debug\net8.0\CoinSums.dll
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\obj\Debug\net8.0\refint\CoinSums.dll
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\obj\Debug\net8.0\CoinSums.pdb
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\obj\Debug\net8.0\CoinSums.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CoinSums\obj\Debug\net8.0\ref\CoinSums.dll
