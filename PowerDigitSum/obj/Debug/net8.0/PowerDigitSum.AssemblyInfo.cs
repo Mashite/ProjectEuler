@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerDigitSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49ed2b553f33573d6510f8efbdf8f7a20f6a58a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a8a0758484e5ac9a882618d8fd8bc6a99c48099")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerDigitSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerDigitSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

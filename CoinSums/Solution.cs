@@ -22,6 +22,7 @@ namespace CoinSums
                     table[j] += table[j - coins[i]];
                 }
             }
+
             return table[target];
         }
 

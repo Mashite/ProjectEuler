@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\bin\Debug\net8.0\PandigitalProducts.exe
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\bin\Debug\net8.0\PandigitalProducts.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\bin\Debug\net8.0\PandigitalProducts.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\bin\Debug\net8.0\PandigitalProducts.dll
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\bin\Debug\net8.0\PandigitalProducts.pdb
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\obj\Debug\net8.0\PandigitalProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\obj\Debug\net8.0\PandigitalProducts.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\obj\Debug\net8.0\PandigitalProducts.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\obj\Debug\net8.0\PandigitalProducts.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\obj\Debug\net8.0\PandigitalProducts.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\obj\Debug\net8.0\PandigitalProducts.dll
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\obj\Debug\net8.0\refint\PandigitalProducts.dll
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\obj\Debug\net8.0\PandigitalProducts.pdb
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\obj\Debug\net8.0\PandigitalProducts.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PandigitalProducts\obj\Debug\net8.0\ref\PandigitalProducts.dll
