@@ -21,15 +21,11 @@ namespace PandigitalProducts
                         continue;
                     if (i.ToString().Intersect(j.ToString()).Any())
                         continue;
-
                     int mult = i * j;
                     if (!mult.ToString().GroupBy(c => c).All(g => g.Count() == 1) || mult.ToString().Contains('0'))
                         continue;
                     if (i.ToString().Intersect(mult.ToString()).Any() || j.ToString().Intersect(mult.ToString()).Any())
                         continue;
-
-
-                   // Console.WriteLine(i +" x " + j +" = " + mult);
                     list.Add(mult);
                 }
             }
@@ -44,15 +40,11 @@ namespace PandigitalProducts
                         continue;
                     if (i.ToString().Intersect(j.ToString()).Any())
                         continue;
-
                     int mult = i * j;
                     if (!mult.ToString().GroupBy(c => c).All(g => g.Count() == 1) || mult.ToString().Contains('0'))
                         continue;
                     if (i.ToString().Intersect(mult.ToString()).Any() || j.ToString().Intersect(mult.ToString()).Any())
                         continue;
-
-
-                    //Console.WriteLine(i + " x " + j + " = " + mult);
                     list.Add(mult);
                 }
             }

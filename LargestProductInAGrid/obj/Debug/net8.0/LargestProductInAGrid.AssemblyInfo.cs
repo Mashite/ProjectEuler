@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LargestProductInAGrid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a8a0758484e5ac9a882618d8fd8bc6a99c48099")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db73a0103f34b8a3e1c8b5bfe15f8598d3b3aa2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LargestProductInAGrid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LargestProductInAGrid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

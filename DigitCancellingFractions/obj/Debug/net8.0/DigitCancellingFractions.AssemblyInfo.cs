@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitCancellingFractions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+268bd1bbda6d5b98bc83b42a694d6ac3cd6ea00c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db73a0103f34b8a3e1c8b5bfe15f8598d3b3aa2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitCancellingFractions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitCancellingFractions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
