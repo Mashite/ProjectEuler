@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\bin\Debug\net8.0\CircularPrimes.exe
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\bin\Debug\net8.0\CircularPrimes.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\bin\Debug\net8.0\CircularPrimes.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\bin\Debug\net8.0\CircularPrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\bin\Debug\net8.0\CircularPrimes.pdb
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\obj\Debug\net8.0\CircularPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\obj\Debug\net8.0\CircularPrimes.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\obj\Debug\net8.0\CircularPrimes.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\obj\Debug\net8.0\CircularPrimes.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\obj\Debug\net8.0\CircularPrimes.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\obj\Debug\net8.0\CircularPrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\obj\Debug\net8.0\refint\CircularPrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\obj\Debug\net8.0\CircularPrimes.pdb
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\obj\Debug\net8.0\CircularPrimes.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CircularPrimes\obj\Debug\net8.0\ref\CircularPrimes.dll

@@ -2,5 +2,5 @@
 using System.Numerics;
 
 Solution solution = new Solution();
-BigInteger result = solution.Solve(100);
+BigInteger result = solution.Solve();
 Console.WriteLine(result.ToString());
