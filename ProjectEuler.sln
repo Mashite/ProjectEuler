@@ -124,6 +124,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-35", "Problem-35", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularPrimes", "CircularPrimes\CircularPrimes.csproj", "{B30BBE0C-2758-439D-80BE-2011BB6D79FA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-36", "Problem-36", "{37987382-7282-4344-9743-934713E1F910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublebasePalindromes", "DoublebasePalindromes\DoublebasePalindromes.csproj", "{C8D1B5A0-703A-4A83-A25F-22999813E60A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -246,6 +250,10 @@ Global
 		{B30BBE0C-2758-439D-80BE-2011BB6D79FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B30BBE0C-2758-439D-80BE-2011BB6D79FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B30BBE0C-2758-439D-80BE-2011BB6D79FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D1B5A0-703A-4A83-A25F-22999813E60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D1B5A0-703A-4A83-A25F-22999813E60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D1B5A0-703A-4A83-A25F-22999813E60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D1B5A0-703A-4A83-A25F-22999813E60A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -280,6 +288,7 @@ Global
 		{C6E82CD6-6DA1-42A4-8EF1-53E6B761C5FB} = {DB1F2481-B7F4-4342-BA7D-7A5FAF505646}
 		{73BB7D53-B0AA-4FE3-BABE-93DBDAE3E904} = {D64358DC-AFB8-4484-96E8-290F6C01F324}
 		{B30BBE0C-2758-439D-80BE-2011BB6D79FA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C8D1B5A0-703A-4A83-A25F-22999813E60A} = {37987382-7282-4344-9743-934713E1F910}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}

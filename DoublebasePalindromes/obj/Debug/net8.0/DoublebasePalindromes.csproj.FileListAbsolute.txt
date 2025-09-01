@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\obj\Debug\net8.0\DoublebasePalindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\obj\Debug\net8.0\DoublebasePalindromes.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\obj\Debug\net8.0\DoublebasePalindromes.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\obj\Debug\net8.0\DoublebasePalindromes.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\obj\Debug\net8.0\DoublebasePalindromes.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\bin\Debug\net8.0\DoublebasePalindromes.exe
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\bin\Debug\net8.0\DoublebasePalindromes.deps.json
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\bin\Debug\net8.0\DoublebasePalindromes.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\bin\Debug\net8.0\DoublebasePalindromes.dll
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\bin\Debug\net8.0\DoublebasePalindromes.pdb
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\obj\Debug\net8.0\DoublebasePalindromes.dll
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\obj\Debug\net8.0\refint\DoublebasePalindromes.dll
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\obj\Debug\net8.0\DoublebasePalindromes.pdb
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\obj\Debug\net8.0\DoublebasePalindromes.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\DoublebasePalindromes\obj\Debug\net8.0\ref\DoublebasePalindromes.dll
