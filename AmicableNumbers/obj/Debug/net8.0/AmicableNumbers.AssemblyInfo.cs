@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmicableNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4da55ee8081ff1f06d2265c1a1bce31bb8b2bde9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81134c75cb4911dbc178ea753916489cc2f1d725")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmicableNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmicableNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

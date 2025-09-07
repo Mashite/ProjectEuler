@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\bin\Debug\net8.0\TruncatablePrimes.exe
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\bin\Debug\net8.0\TruncatablePrimes.deps.json
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\bin\Debug\net8.0\TruncatablePrimes.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\bin\Debug\net8.0\TruncatablePrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\bin\Debug\net8.0\TruncatablePrimes.pdb
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\obj\Debug\net8.0\TruncatablePrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\obj\Debug\net8.0\TruncatablePrimes.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\obj\Debug\net8.0\TruncatablePrimes.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\obj\Debug\net8.0\TruncatablePrimes.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\obj\Debug\net8.0\TruncatablePrimes.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\obj\Debug\net8.0\TruncatablePrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\obj\Debug\net8.0\refint\TruncatablePrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\obj\Debug\net8.0\TruncatablePrimes.pdb
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\obj\Debug\net8.0\TruncatablePrimes.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\TruncatablePrimes\obj\Debug\net8.0\ref\TruncatablePrimes.dll
