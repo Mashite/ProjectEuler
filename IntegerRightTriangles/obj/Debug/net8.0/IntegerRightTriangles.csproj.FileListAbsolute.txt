@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\bin\Debug\net8.0\IntegerRightTriangles.exe
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\bin\Debug\net8.0\IntegerRightTriangles.deps.json
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\bin\Debug\net8.0\IntegerRightTriangles.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\bin\Debug\net8.0\IntegerRightTriangles.dll
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\bin\Debug\net8.0\IntegerRightTriangles.pdb
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\obj\Debug\net8.0\IntegerRightTriangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\obj\Debug\net8.0\IntegerRightTriangles.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\obj\Debug\net8.0\IntegerRightTriangles.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\obj\Debug\net8.0\IntegerRightTriangles.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\obj\Debug\net8.0\IntegerRightTriangles.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\obj\Debug\net8.0\IntegerRightTriangles.dll
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\obj\Debug\net8.0\refint\IntegerRightTriangles.dll
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\obj\Debug\net8.0\IntegerRightTriangles.pdb
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\obj\Debug\net8.0\IntegerRightTriangles.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\IntegerRightTriangles\obj\Debug\net8.0\ref\IntegerRightTriangles.dll

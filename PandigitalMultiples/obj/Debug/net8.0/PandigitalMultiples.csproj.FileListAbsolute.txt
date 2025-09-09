@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\bin\Debug\net8.0\PandigitalMultiples.exe
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\bin\Debug\net8.0\PandigitalMultiples.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\bin\Debug\net8.0\PandigitalMultiples.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\bin\Debug\net8.0\PandigitalMultiples.dll
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\bin\Debug\net8.0\PandigitalMultiples.pdb
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\obj\Debug\net8.0\PandigitalMultiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\obj\Debug\net8.0\PandigitalMultiples.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\obj\Debug\net8.0\PandigitalMultiples.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\obj\Debug\net8.0\PandigitalMultiples.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\obj\Debug\net8.0\PandigitalMultiples.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\obj\Debug\net8.0\PandigitalMultiples.dll
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\obj\Debug\net8.0\refint\PandigitalMultiples.dll
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\obj\Debug\net8.0\PandigitalMultiples.pdb
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\obj\Debug\net8.0\PandigitalMultiples.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PandigitalMultiples\obj\Debug\net8.0\ref\PandigitalMultiples.dll
