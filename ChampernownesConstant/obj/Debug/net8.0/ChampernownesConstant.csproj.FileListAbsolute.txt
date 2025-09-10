@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\bin\Debug\net8.0\ChampernownesConstant.exe
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\bin\Debug\net8.0\ChampernownesConstant.deps.json
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\bin\Debug\net8.0\ChampernownesConstant.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\bin\Debug\net8.0\ChampernownesConstant.dll
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\bin\Debug\net8.0\ChampernownesConstant.pdb
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\obj\Debug\net8.0\ChampernownesConstant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\obj\Debug\net8.0\ChampernownesConstant.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\obj\Debug\net8.0\ChampernownesConstant.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\obj\Debug\net8.0\ChampernownesConstant.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\obj\Debug\net8.0\ChampernownesConstant.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\obj\Debug\net8.0\ChampernownesConstant.dll
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\obj\Debug\net8.0\refint\ChampernownesConstant.dll
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\obj\Debug\net8.0\ChampernownesConstant.pdb
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\obj\Debug\net8.0\ChampernownesConstant.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\ChampernownesConstant\obj\Debug\net8.0\ref\ChampernownesConstant.dll

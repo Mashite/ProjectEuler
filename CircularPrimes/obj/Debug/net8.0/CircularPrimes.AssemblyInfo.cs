@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CircularPrimes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c543d561e8f4988a9f89f26a3ec603b9c2a4fa94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdcdbf3ce848cb44e30b55b9282c59758e9e6fd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CircularPrimes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CircularPrimes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
