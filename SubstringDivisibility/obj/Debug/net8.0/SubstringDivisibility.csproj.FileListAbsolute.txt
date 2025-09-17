@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\obj\Debug\net8.0\SubstringDivisibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\obj\Debug\net8.0\SubstringDivisibility.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\obj\Debug\net8.0\SubstringDivisibility.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\obj\Debug\net8.0\SubstringDivisibility.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\obj\Debug\net8.0\SubstringDivisibility.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\bin\Debug\net8.0\SubstringDivisibility.exe
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\bin\Debug\net8.0\SubstringDivisibility.deps.json
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\bin\Debug\net8.0\SubstringDivisibility.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\bin\Debug\net8.0\SubstringDivisibility.dll
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\bin\Debug\net8.0\SubstringDivisibility.pdb
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\obj\Debug\net8.0\SubstringDivisibility.dll
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\obj\Debug\net8.0\refint\SubstringDivisibility.dll
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\obj\Debug\net8.0\SubstringDivisibility.pdb
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\obj\Debug\net8.0\SubstringDivisibility.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\SubstringDivisibility\obj\Debug\net8.0\ref\SubstringDivisibility.dll

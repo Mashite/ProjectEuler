@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PandigitalMultiples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7e12ddbdaee4e57e227787a3156fb64a5f567c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5baeb01c1c08044571bfd4a56145e1135fb30a9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PandigitalMultiples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PandigitalMultiples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
