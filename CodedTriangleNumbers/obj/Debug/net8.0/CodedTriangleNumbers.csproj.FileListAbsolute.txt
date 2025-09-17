@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\bin\Debug\net8.0\CodedTriangleNumbers.exe
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\bin\Debug\net8.0\CodedTriangleNumbers.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\bin\Debug\net8.0\CodedTriangleNumbers.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\bin\Debug\net8.0\CodedTriangleNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\bin\Debug\net8.0\CodedTriangleNumbers.pdb
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\obj\Debug\net8.0\CodedTriangleNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\obj\Debug\net8.0\CodedTriangleNumbers.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\obj\Debug\net8.0\CodedTriangleNumbers.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\obj\Debug\net8.0\CodedTriangleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\obj\Debug\net8.0\CodedTriangleNumbers.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\obj\Debug\net8.0\CodedTriangleNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\obj\Debug\net8.0\refint\CodedTriangleNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\obj\Debug\net8.0\CodedTriangleNumbers.pdb
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\obj\Debug\net8.0\CodedTriangleNumbers.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CodedTriangleNumbers\obj\Debug\net8.0\ref\CodedTriangleNumbers.dll

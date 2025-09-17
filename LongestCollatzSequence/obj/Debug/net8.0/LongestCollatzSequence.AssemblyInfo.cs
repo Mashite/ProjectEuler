@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LongestCollatzSequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdcdbf3ce848cb44e30b55b9282c59758e9e6fd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7e12ddbdaee4e57e227787a3156fb64a5f567c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LongestCollatzSequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LongestCollatzSequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

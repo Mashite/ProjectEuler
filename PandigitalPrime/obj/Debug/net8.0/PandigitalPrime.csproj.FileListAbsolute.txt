@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\bin\Debug\net8.0\PandigitalPrime.exe
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\bin\Debug\net8.0\PandigitalPrime.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\bin\Debug\net8.0\PandigitalPrime.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\bin\Debug\net8.0\PandigitalPrime.dll
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\bin\Debug\net8.0\PandigitalPrime.pdb
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\obj\Debug\net8.0\PandigitalPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\obj\Debug\net8.0\PandigitalPrime.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\obj\Debug\net8.0\PandigitalPrime.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\obj\Debug\net8.0\PandigitalPrime.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\obj\Debug\net8.0\PandigitalPrime.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\obj\Debug\net8.0\PandigitalPrime.dll
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\obj\Debug\net8.0\refint\PandigitalPrime.dll
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\obj\Debug\net8.0\PandigitalPrime.pdb
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\obj\Debug\net8.0\PandigitalPrime.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PandigitalPrime\obj\Debug\net8.0\ref\PandigitalPrime.dll
