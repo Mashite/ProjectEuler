@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\obj\Debug\net8.0\PentagonNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\obj\Debug\net8.0\PentagonNumbers.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\obj\Debug\net8.0\PentagonNumbers.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\obj\Debug\net8.0\PentagonNumbers.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\obj\Debug\net8.0\PentagonNumbers.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\bin\Debug\net8.0\PentagonNumbers.exe
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\bin\Debug\net8.0\PentagonNumbers.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\bin\Debug\net8.0\PentagonNumbers.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\bin\Debug\net8.0\PentagonNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\bin\Debug\net8.0\PentagonNumbers.pdb
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\obj\Debug\net8.0\PentagonNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\obj\Debug\net8.0\refint\PentagonNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\obj\Debug\net8.0\PentagonNumbers.pdb
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\obj\Debug\net8.0\PentagonNumbers.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PentagonNumbers\obj\Debug\net8.0\ref\PentagonNumbers.dll

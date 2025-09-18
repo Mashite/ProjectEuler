@@ -36,15 +36,9 @@ namespace SubstringDivisibility
                                     {
                                         a = Convert.ToInt16(string.Join("", s[7], s[8], s[9]));
                                         if (a % 17 == 0)
-                                        {
                                             if (IsPandigal(i))
                                                 sum += i;
-                                            i++;
-                                        }
-                                        else
-                                        {
-                                            i++;
-                                        }
+                                        i++;                                     
 
                                     }
                                     else
