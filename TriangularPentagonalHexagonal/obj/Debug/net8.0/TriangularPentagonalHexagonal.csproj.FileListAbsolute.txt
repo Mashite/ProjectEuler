@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\bin\Debug\net8.0\TriangularPentagonalHexagonal.exe
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\bin\Debug\net8.0\TriangularPentagonalHexagonal.deps.json
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\bin\Debug\net8.0\TriangularPentagonalHexagonal.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\bin\Debug\net8.0\TriangularPentagonalHexagonal.dll
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\bin\Debug\net8.0\TriangularPentagonalHexagonal.pdb
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\obj\Debug\net8.0\TriangularPentagonalHexagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\obj\Debug\net8.0\TriangularPentagonalHexagonal.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\obj\Debug\net8.0\TriangularPentagonalHexagonal.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\obj\Debug\net8.0\TriangularPentagonalHexagonal.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\obj\Debug\net8.0\TriangularPentagonalHexagonal.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\obj\Debug\net8.0\TriangularPentagonalHexagonal.dll
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\obj\Debug\net8.0\refint\TriangularPentagonalHexagonal.dll
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\obj\Debug\net8.0\TriangularPentagonalHexagonal.pdb
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\obj\Debug\net8.0\TriangularPentagonalHexagonal.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\TriangularPentagonalHexagonal\obj\Debug\net8.0\ref\TriangularPentagonalHexagonal.dll

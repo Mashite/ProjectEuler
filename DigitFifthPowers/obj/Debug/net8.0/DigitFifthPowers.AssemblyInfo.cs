@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitFifthPowers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fa5372854d05a9eada07efe0d869582f720c319")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85c20954ca00c12647251c019701f3848770afc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitFifthPowers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitFifthPowers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

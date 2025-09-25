@@ -160,6 +160,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-44", "Problem-44", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PentagonNumbers", "PentagonNumbers\PentagonNumbers.csproj", "{19E00A91-E2AD-4205-B7A2-AC1D5DC1A13D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-45", "Problem-45", "{DB423EE3-9756-493B-AB57-B1FDEB816B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangularPentagonalHexagonal", "TriangularPentagonalHexagonal\TriangularPentagonalHexagonal.csproj", "{84AAFC31-8E77-4995-9251-18083998F788}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -318,6 +322,10 @@ Global
 		{19E00A91-E2AD-4205-B7A2-AC1D5DC1A13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E00A91-E2AD-4205-B7A2-AC1D5DC1A13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E00A91-E2AD-4205-B7A2-AC1D5DC1A13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AAFC31-8E77-4995-9251-18083998F788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AAFC31-8E77-4995-9251-18083998F788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AAFC31-8E77-4995-9251-18083998F788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AAFC31-8E77-4995-9251-18083998F788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -361,6 +369,7 @@ Global
 		{E8884AFC-27C6-4B53-9B0A-87E1085C68E8} = {BFE71D53-87C1-4708-B0D2-8F74A2598103}
 		{D8AE3A36-CF7A-41E1-9404-CC5BD5215256} = {43F29B99-8AFF-4DDD-BC97-9AB9182946FD}
 		{19E00A91-E2AD-4205-B7A2-AC1D5DC1A13D} = {331FB1B4-06C0-49B4-AF89-377AF24768FB}
+		{84AAFC31-8E77-4995-9251-18083998F788} = {DB423EE3-9756-493B-AB57-B1FDEB816B32}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}
