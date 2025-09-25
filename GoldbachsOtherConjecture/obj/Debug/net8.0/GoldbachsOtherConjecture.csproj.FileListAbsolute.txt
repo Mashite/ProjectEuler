@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\bin\Debug\net8.0\GoldbachsOtherConjecture.exe
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\bin\Debug\net8.0\GoldbachsOtherConjecture.deps.json
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\bin\Debug\net8.0\GoldbachsOtherConjecture.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\bin\Debug\net8.0\GoldbachsOtherConjecture.dll
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\bin\Debug\net8.0\GoldbachsOtherConjecture.pdb
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\obj\Debug\net8.0\GoldbachsOtherConjecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\obj\Debug\net8.0\GoldbachsOtherConjecture.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\obj\Debug\net8.0\GoldbachsOtherConjecture.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\obj\Debug\net8.0\GoldbachsOtherConjecture.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\obj\Debug\net8.0\GoldbachsOtherConjecture.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\obj\Debug\net8.0\GoldbachsOtherConjecture.dll
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\obj\Debug\net8.0\refint\GoldbachsOtherConjecture.dll
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\obj\Debug\net8.0\GoldbachsOtherConjecture.pdb
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\obj\Debug\net8.0\GoldbachsOtherConjecture.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\GoldbachsOtherConjecture\obj\Debug\net8.0\ref\GoldbachsOtherConjecture.dll
