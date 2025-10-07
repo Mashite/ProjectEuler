@@ -168,6 +168,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-46", "Problem-46", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldbachsOtherConjecture", "GoldbachsOtherConjecture\GoldbachsOtherConjecture.csproj", "{69C3F3F3-CCB1-46F7-966C-CA97495E7701}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-47", "Problem-47", "{E75B6E71-623C-47A2-89AC-A81139D54D6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistinctPrimesFactors", "DistinctPrimesFactors\DistinctPrimesFactors.csproj", "{2E1559E7-D3EF-4A27-B6A8-F75FDB1F85FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -334,6 +338,10 @@ Global
 		{69C3F3F3-CCB1-46F7-966C-CA97495E7701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C3F3F3-CCB1-46F7-966C-CA97495E7701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C3F3F3-CCB1-46F7-966C-CA97495E7701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1559E7-D3EF-4A27-B6A8-F75FDB1F85FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1559E7-D3EF-4A27-B6A8-F75FDB1F85FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1559E7-D3EF-4A27-B6A8-F75FDB1F85FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1559E7-D3EF-4A27-B6A8-F75FDB1F85FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -379,6 +387,7 @@ Global
 		{19E00A91-E2AD-4205-B7A2-AC1D5DC1A13D} = {331FB1B4-06C0-49B4-AF89-377AF24768FB}
 		{84AAFC31-8E77-4995-9251-18083998F788} = {DB423EE3-9756-493B-AB57-B1FDEB816B32}
 		{69C3F3F3-CCB1-46F7-966C-CA97495E7701} = {24271673-8C3D-4642-9FF1-197EF24EC518}
+		{2E1559E7-D3EF-4A27-B6A8-F75FDB1F85FF} = {E75B6E71-623C-47A2-89AC-A81139D54D6C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}

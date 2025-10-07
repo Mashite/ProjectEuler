@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitFactorials")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a835baf17e92306a015fbbfcf84ae0979348ee2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0c5e32953cb849da8d3fd0196d51f3e94c0e5cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitFactorials")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitFactorials")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

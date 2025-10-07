@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\bin\Debug\net8.0\DistinctPrimesFactors.exe
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\bin\Debug\net8.0\DistinctPrimesFactors.deps.json
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\bin\Debug\net8.0\DistinctPrimesFactors.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\bin\Debug\net8.0\DistinctPrimesFactors.dll
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\bin\Debug\net8.0\DistinctPrimesFactors.pdb
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\obj\Debug\net8.0\DistinctPrimesFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\obj\Debug\net8.0\DistinctPrimesFactors.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\obj\Debug\net8.0\DistinctPrimesFactors.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\obj\Debug\net8.0\DistinctPrimesFactors.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\obj\Debug\net8.0\DistinctPrimesFactors.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\obj\Debug\net8.0\DistinctPrimesFactors.dll
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\obj\Debug\net8.0\refint\DistinctPrimesFactors.dll
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\obj\Debug\net8.0\DistinctPrimesFactors.pdb
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\obj\Debug\net8.0\DistinctPrimesFactors.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\DistinctPrimesFactors\obj\Debug\net8.0\ref\DistinctPrimesFactors.dll

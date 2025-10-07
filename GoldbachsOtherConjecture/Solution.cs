@@ -13,7 +13,6 @@ namespace GoldbachsOtherConjecture
         public int Solve()
         {
             primes.Add(3);
-
             int n = 5;
             while (true)
             {
@@ -41,7 +40,6 @@ namespace GoldbachsOtherConjecture
                 }
                 n = n + 2;
             }
-            return 0;
         }
     }
 }
