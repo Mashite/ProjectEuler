@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\bin\Debug\net8.0\PrimePermutations.exe
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\bin\Debug\net8.0\PrimePermutations.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\bin\Debug\net8.0\PrimePermutations.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\bin\Debug\net8.0\PrimePermutations.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\bin\Debug\net8.0\PrimePermutations.pdb
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\obj\Debug\net8.0\PrimePermutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\obj\Debug\net8.0\PrimePermutations.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\obj\Debug\net8.0\PrimePermutations.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\obj\Debug\net8.0\PrimePermutations.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\obj\Debug\net8.0\PrimePermutations.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\obj\Debug\net8.0\PrimePermutations.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\obj\Debug\net8.0\refint\PrimePermutations.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\obj\Debug\net8.0\PrimePermutations.pdb
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\obj\Debug\net8.0\PrimePermutations.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimePermutations\obj\Debug\net8.0\ref\PrimePermutations.dll

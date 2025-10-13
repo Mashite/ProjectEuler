@@ -15,6 +15,7 @@ namespace DistinctPrimesFactors
         public int Solve()
         {
             Sieve();
+
             int count = 0;
             for (int i = 210; i < LIMIT; i++)
             {
@@ -27,7 +28,7 @@ namespace DistinctPrimesFactors
                 int d = i;
                 foreach (int p in primes)
                 {
-                    if (d == 0) break;
+                    if (d == 1) break;
                     if (d % p == 0)
                     {
                         distinct++;

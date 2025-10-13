@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\bin\Debug\net8.0\SelfPowers.exe
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\bin\Debug\net8.0\SelfPowers.deps.json
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\bin\Debug\net8.0\SelfPowers.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\bin\Debug\net8.0\SelfPowers.dll
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\bin\Debug\net8.0\SelfPowers.pdb
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\obj\Debug\net8.0\SelfPowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\obj\Debug\net8.0\SelfPowers.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\obj\Debug\net8.0\SelfPowers.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\obj\Debug\net8.0\SelfPowers.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\obj\Debug\net8.0\SelfPowers.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\obj\Debug\net8.0\SelfPowers.dll
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\obj\Debug\net8.0\refint\SelfPowers.dll
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\obj\Debug\net8.0\SelfPowers.pdb
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\obj\Debug\net8.0\SelfPowers.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\SelfPowers\obj\Debug\net8.0\ref\SelfPowers.dll
