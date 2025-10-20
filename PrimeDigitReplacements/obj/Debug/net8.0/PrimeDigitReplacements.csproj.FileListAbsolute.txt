@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\bin\Debug\net8.0\PrimeDigitReplacements.exe
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\bin\Debug\net8.0\PrimeDigitReplacements.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\bin\Debug\net8.0\PrimeDigitReplacements.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\bin\Debug\net8.0\PrimeDigitReplacements.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\bin\Debug\net8.0\PrimeDigitReplacements.pdb
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\obj\Debug\net8.0\PrimeDigitReplacements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\obj\Debug\net8.0\PrimeDigitReplacements.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\obj\Debug\net8.0\PrimeDigitReplacements.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\obj\Debug\net8.0\PrimeDigitReplacements.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\obj\Debug\net8.0\PrimeDigitReplacements.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\obj\Debug\net8.0\PrimeDigitReplacements.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\obj\Debug\net8.0\refint\PrimeDigitReplacements.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\obj\Debug\net8.0\PrimeDigitReplacements.pdb
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\obj\Debug\net8.0\PrimeDigitReplacements.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimeDigitReplacements\obj\Debug\net8.0\ref\PrimeDigitReplacements.dll

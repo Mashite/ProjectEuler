@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SummationofPrimes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b0c9f21e707bbcba40dff97858b14a6ff679a3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ce7117287714c32bf5b8291fdfd9e57fb66032b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SummationofPrimes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SummationofPrimes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\bin\Debug\net8.0\ConsecutivePrimeSum.exe
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\bin\Debug\net8.0\ConsecutivePrimeSum.deps.json
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\bin\Debug\net8.0\ConsecutivePrimeSum.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\bin\Debug\net8.0\ConsecutivePrimeSum.dll
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\bin\Debug\net8.0\ConsecutivePrimeSum.pdb
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\obj\Debug\net8.0\ConsecutivePrimeSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\obj\Debug\net8.0\ConsecutivePrimeSum.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\obj\Debug\net8.0\ConsecutivePrimeSum.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\obj\Debug\net8.0\ConsecutivePrimeSum.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\obj\Debug\net8.0\ConsecutivePrimeSum.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\obj\Debug\net8.0\ConsecutivePrimeSum.dll
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\obj\Debug\net8.0\refint\ConsecutivePrimeSum.dll
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\obj\Debug\net8.0\ConsecutivePrimeSum.pdb
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\obj\Debug\net8.0\ConsecutivePrimeSum.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\ConsecutivePrimeSum\obj\Debug\net8.0\ref\ConsecutivePrimeSum.dll
