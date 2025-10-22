@@ -188,6 +188,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-51", "Problem-51", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeDigitReplacements", "PrimeDigitReplacements\PrimeDigitReplacements.csproj", "{A36AC694-80D8-4CFC-92B3-E6915FBF0AEA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-52", "Problem-52", "{E6F3B853-B0A9-451D-9DF0-87FE716B84A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutedMultiples", "PermutedMultiples\PermutedMultiples.csproj", "{E9F33FC8-0777-4067-8DC7-8A6D10ACFACA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -374,6 +378,10 @@ Global
 		{A36AC694-80D8-4CFC-92B3-E6915FBF0AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A36AC694-80D8-4CFC-92B3-E6915FBF0AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A36AC694-80D8-4CFC-92B3-E6915FBF0AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9F33FC8-0777-4067-8DC7-8A6D10ACFACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F33FC8-0777-4067-8DC7-8A6D10ACFACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F33FC8-0777-4067-8DC7-8A6D10ACFACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F33FC8-0777-4067-8DC7-8A6D10ACFACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -424,6 +432,7 @@ Global
 		{96E8B6CA-06E0-4D59-9102-7B8AFB474D08} = {BDBDB09F-BCBE-405D-8474-7C343EB13CA5}
 		{BF5A6402-AFF3-431F-9D68-4A0DAAE6F99B} = {3F2F62B7-CD3B-4BB3-B737-9AC1D5E4B308}
 		{A36AC694-80D8-4CFC-92B3-E6915FBF0AEA} = {F6E5D9AE-0D58-4EA4-83AA-41BB7F5AAE09}
+		{E9F33FC8-0777-4067-8DC7-8A6D10ACFACA} = {E6F3B853-B0A9-451D-9DF0-87FE716B84A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}

@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\bin\Debug\net8.0\PermutedMultiples.exe
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\bin\Debug\net8.0\PermutedMultiples.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\bin\Debug\net8.0\PermutedMultiples.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\bin\Debug\net8.0\PermutedMultiples.dll
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\bin\Debug\net8.0\PermutedMultiples.pdb
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\obj\Debug\net8.0\PermutedMultiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\obj\Debug\net8.0\PermutedMultiples.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\obj\Debug\net8.0\PermutedMultiples.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\obj\Debug\net8.0\PermutedMultiples.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\obj\Debug\net8.0\PermutedMultiples.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\obj\Debug\net8.0\PermutedMultiples.dll
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\obj\Debug\net8.0\refint\PermutedMultiples.dll
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\obj\Debug\net8.0\PermutedMultiples.pdb
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\obj\Debug\net8.0\PermutedMultiples.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PermutedMultiples\obj\Debug\net8.0\ref\PermutedMultiples.dll
