@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\bin\Debug\net8.0\CombinatoricSelections.exe
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\bin\Debug\net8.0\CombinatoricSelections.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\bin\Debug\net8.0\CombinatoricSelections.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\bin\Debug\net8.0\CombinatoricSelections.dll
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\bin\Debug\net8.0\CombinatoricSelections.pdb
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\obj\Debug\net8.0\CombinatoricSelections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\obj\Debug\net8.0\CombinatoricSelections.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\obj\Debug\net8.0\CombinatoricSelections.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\obj\Debug\net8.0\CombinatoricSelections.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\obj\Debug\net8.0\CombinatoricSelections.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\obj\Debug\net8.0\CombinatoricSelections.dll
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\obj\Debug\net8.0\refint\CombinatoricSelections.dll
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\obj\Debug\net8.0\CombinatoricSelections.pdb
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\obj\Debug\net8.0\CombinatoricSelections.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CombinatoricSelections\obj\Debug\net8.0\ref\CombinatoricSelections.dll
