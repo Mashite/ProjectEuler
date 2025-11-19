@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\bin\Debug\net8.0\LychrelNumbers.exe
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\bin\Debug\net8.0\LychrelNumbers.deps.json
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\bin\Debug\net8.0\LychrelNumbers.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\bin\Debug\net8.0\LychrelNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\bin\Debug\net8.0\LychrelNumbers.pdb
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\obj\Debug\net8.0\LychrelNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\obj\Debug\net8.0\LychrelNumbers.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\obj\Debug\net8.0\LychrelNumbers.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\obj\Debug\net8.0\LychrelNumbers.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\obj\Debug\net8.0\LychrelNumbers.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\obj\Debug\net8.0\LychrelNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\obj\Debug\net8.0\refint\LychrelNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\obj\Debug\net8.0\LychrelNumbers.pdb
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\obj\Debug\net8.0\LychrelNumbers.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\LychrelNumbers\obj\Debug\net8.0\ref\LychrelNumbers.dll

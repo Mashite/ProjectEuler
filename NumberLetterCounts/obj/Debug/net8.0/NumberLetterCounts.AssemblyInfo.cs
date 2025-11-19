@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberLetterCounts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9a5eb00a5abf6a54c2cc79c47a3417ea70f8860")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a4e7e37d04731b857664406880377846fd45904")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberLetterCounts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberLetterCounts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
