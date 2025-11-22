@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeDigitReplacements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a4e7e37d04731b857664406880377846fd45904")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b91877597ac8d923e24aaac88502cad2136932f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeDigitReplacements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeDigitReplacements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

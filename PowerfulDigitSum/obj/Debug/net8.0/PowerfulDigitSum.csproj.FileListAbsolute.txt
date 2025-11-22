@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\bin\Debug\net8.0\PowerfulDigitSum.exe
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\bin\Debug\net8.0\PowerfulDigitSum.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\bin\Debug\net8.0\PowerfulDigitSum.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\bin\Debug\net8.0\PowerfulDigitSum.dll
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\bin\Debug\net8.0\PowerfulDigitSum.pdb
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\obj\Debug\net8.0\PowerfulDigitSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\obj\Debug\net8.0\PowerfulDigitSum.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\obj\Debug\net8.0\PowerfulDigitSum.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\obj\Debug\net8.0\PowerfulDigitSum.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\obj\Debug\net8.0\PowerfulDigitSum.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\obj\Debug\net8.0\PowerfulDigitSum.dll
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\obj\Debug\net8.0\refint\PowerfulDigitSum.dll
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\obj\Debug\net8.0\PowerfulDigitSum.pdb
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\obj\Debug\net8.0\PowerfulDigitSum.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitSum\obj\Debug\net8.0\ref\PowerfulDigitSum.dll
