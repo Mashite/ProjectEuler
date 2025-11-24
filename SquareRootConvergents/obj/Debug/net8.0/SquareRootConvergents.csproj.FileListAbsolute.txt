@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\bin\Debug\net8.0\SquareRootConvergents.exe
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\bin\Debug\net8.0\SquareRootConvergents.deps.json
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\bin\Debug\net8.0\SquareRootConvergents.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\bin\Debug\net8.0\SquareRootConvergents.dll
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\bin\Debug\net8.0\SquareRootConvergents.pdb
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\obj\Debug\net8.0\SquareRootConvergents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\obj\Debug\net8.0\SquareRootConvergents.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\obj\Debug\net8.0\SquareRootConvergents.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\obj\Debug\net8.0\SquareRootConvergents.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\obj\Debug\net8.0\SquareRootConvergents.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\obj\Debug\net8.0\SquareRootConvergents.dll
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\obj\Debug\net8.0\refint\SquareRootConvergents.dll
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\obj\Debug\net8.0\SquareRootConvergents.pdb
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\obj\Debug\net8.0\SquareRootConvergents.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\SquareRootConvergents\obj\Debug\net8.0\ref\SquareRootConvergents.dll

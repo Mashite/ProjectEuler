@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LychrelNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b91877597ac8d923e24aaac88502cad2136932f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7d8f8dd97daef3e877e20a3f46865e220f2161b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LychrelNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LychrelNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

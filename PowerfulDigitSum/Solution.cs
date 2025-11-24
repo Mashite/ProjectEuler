@@ -27,7 +27,7 @@ namespace PowerfulDigitSum
                     }
                 }
             }
-                return max;
+            return max;
         }
     }
 }
