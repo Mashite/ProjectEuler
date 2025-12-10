@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\obj\Debug\net8.0\SpiralPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\obj\Debug\net8.0\SpiralPrimes.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\obj\Debug\net8.0\SpiralPrimes.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\obj\Debug\net8.0\SpiralPrimes.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\obj\Debug\net8.0\SpiralPrimes.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\bin\Debug\net8.0\SpiralPrimes.exe
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\bin\Debug\net8.0\SpiralPrimes.deps.json
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\bin\Debug\net8.0\SpiralPrimes.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\bin\Debug\net8.0\SpiralPrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\bin\Debug\net8.0\SpiralPrimes.pdb
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\obj\Debug\net8.0\SpiralPrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\obj\Debug\net8.0\refint\SpiralPrimes.dll
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\obj\Debug\net8.0\SpiralPrimes.pdb
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\obj\Debug\net8.0\SpiralPrimes.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\SpiralPrimes\obj\Debug\net8.0\ref\SpiralPrimes.dll

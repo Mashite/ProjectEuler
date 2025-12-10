@@ -212,6 +212,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-57", "Problem-57", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRootConvergents", "SquareRootConvergents\SquareRootConvergents.csproj", "{D2C611A8-6228-4736-81D0-AF2922A23C92}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-58", "Problem-58", "{BD665F1F-833C-4A8C-B6C1-22E26185F78F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralPrimes", "SpiralPrimes\SpiralPrimes.csproj", "{F8CADF40-C9D4-421E-A196-938B01800DF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -422,6 +426,10 @@ Global
 		{D2C611A8-6228-4736-81D0-AF2922A23C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2C611A8-6228-4736-81D0-AF2922A23C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2C611A8-6228-4736-81D0-AF2922A23C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8CADF40-C9D4-421E-A196-938B01800DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CADF40-C9D4-421E-A196-938B01800DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CADF40-C9D4-421E-A196-938B01800DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CADF40-C9D4-421E-A196-938B01800DF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -478,6 +486,7 @@ Global
 		{6BCFFF65-F300-4B09-BE55-3B37F66FE576} = {F4DC86C4-8A7A-4D74-A755-583EA838DE23}
 		{E1099259-91A2-4E6E-A9FE-7CBA948D3FA0} = {A87EA392-121F-4F25-9E93-0BCD4A581CB5}
 		{D2C611A8-6228-4736-81D0-AF2922A23C92} = {D3D8FF1E-4FE8-42E0-91BD-927FB3D7C5A9}
+		{F8CADF40-C9D4-421E-A196-938B01800DF2} = {BD665F1F-833C-4A8C-B6C1-22E26185F78F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}
