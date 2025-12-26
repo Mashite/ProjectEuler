@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChampernownesConstant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f61822c1e439955dffb4fbbfcdd957de66138ce2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65427756c821385d4aca6c300199e920ee37de1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChampernownesConstant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChampernownesConstant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,7 +27,7 @@ namespace SpiralPrimes
                     diagonalValue = diagonalValue + level;
                     if (diagonalValue < LIMIT && isPrime[diagonalValue])
                         primeCount++;
-                    if (diagonalValue > LIMIT && IsPrime(diagonalValue))
+                    else if (diagonalValue > LIMIT && IsPrime(diagonalValue))
                         primeCount++;
                     diagonalCount++;
                 }

@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\bin\Debug\net8.0\XORDecryption.exe
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\bin\Debug\net8.0\XORDecryption.deps.json
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\bin\Debug\net8.0\XORDecryption.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\bin\Debug\net8.0\XORDecryption.dll
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\bin\Debug\net8.0\XORDecryption.pdb
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\obj\Debug\net8.0\XORDecryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\obj\Debug\net8.0\XORDecryption.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\obj\Debug\net8.0\XORDecryption.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\obj\Debug\net8.0\XORDecryption.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\obj\Debug\net8.0\XORDecryption.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\obj\Debug\net8.0\XORDecryption.dll
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\obj\Debug\net8.0\refint\XORDecryption.dll
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\obj\Debug\net8.0\XORDecryption.pdb
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\obj\Debug\net8.0\XORDecryption.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\XORDecryption\obj\Debug\net8.0\ref\XORDecryption.dll
