@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\bin\Debug\net8.0\CyclicalFigurateNumbers.exe
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\bin\Debug\net8.0\CyclicalFigurateNumbers.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\bin\Debug\net8.0\CyclicalFigurateNumbers.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\bin\Debug\net8.0\CyclicalFigurateNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\bin\Debug\net8.0\CyclicalFigurateNumbers.pdb
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\obj\Debug\net8.0\CyclicalFigurateNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\obj\Debug\net8.0\CyclicalFigurateNumbers.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\obj\Debug\net8.0\CyclicalFigurateNumbers.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\obj\Debug\net8.0\CyclicalFigurateNumbers.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\obj\Debug\net8.0\CyclicalFigurateNumbers.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\obj\Debug\net8.0\CyclicalFigurateNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\obj\Debug\net8.0\refint\CyclicalFigurateNumbers.dll
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\obj\Debug\net8.0\CyclicalFigurateNumbers.pdb
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\obj\Debug\net8.0\CyclicalFigurateNumbers.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CyclicalFigurateNumbers\obj\Debug\net8.0\ref\CyclicalFigurateNumbers.dll

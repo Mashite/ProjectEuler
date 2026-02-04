@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\bin\Debug\net8.0\PrimePairSets.exe
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\bin\Debug\net8.0\PrimePairSets.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\bin\Debug\net8.0\PrimePairSets.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\bin\Debug\net8.0\PrimePairSets.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\bin\Debug\net8.0\PrimePairSets.pdb
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\obj\Debug\net8.0\PrimePairSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\obj\Debug\net8.0\PrimePairSets.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\obj\Debug\net8.0\PrimePairSets.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\obj\Debug\net8.0\PrimePairSets.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\obj\Debug\net8.0\PrimePairSets.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\obj\Debug\net8.0\PrimePairSets.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\obj\Debug\net8.0\refint\PrimePairSets.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\obj\Debug\net8.0\PrimePairSets.pdb
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\obj\Debug\net8.0\PrimePairSets.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimePairSets\obj\Debug\net8.0\ref\PrimePairSets.dll

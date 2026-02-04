@@ -48,7 +48,7 @@ namespace SpiralPrimes
             {
                 if (!isPrime[i]) continue;
 
-                for (int j = i * 2; j < LIMIT; j = j + i)
+                for (int j = i * i; j < LIMIT; j = j + i)
                     isPrime[j] = false;
             }
 
