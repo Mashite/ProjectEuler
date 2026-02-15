@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\bin\Debug\net8.0\CubicPermutations.exe
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\bin\Debug\net8.0\CubicPermutations.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\bin\Debug\net8.0\CubicPermutations.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\bin\Debug\net8.0\CubicPermutations.dll
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\bin\Debug\net8.0\CubicPermutations.pdb
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\obj\Debug\net8.0\CubicPermutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\obj\Debug\net8.0\CubicPermutations.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\obj\Debug\net8.0\CubicPermutations.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\obj\Debug\net8.0\CubicPermutations.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\obj\Debug\net8.0\CubicPermutations.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\obj\Debug\net8.0\CubicPermutations.dll
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\obj\Debug\net8.0\refint\CubicPermutations.dll
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\obj\Debug\net8.0\CubicPermutations.pdb
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\obj\Debug\net8.0\CubicPermutations.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CubicPermutations\obj\Debug\net8.0\ref\CubicPermutations.dll

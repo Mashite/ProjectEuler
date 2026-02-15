@@ -21,14 +21,7 @@ namespace CyclicalFigurateNumbers
             numbers.Add(8, new List<int>());
             FillLists();
 
-            foreach (var kvp in numbers)
-            {
-                if (kvp.Value.Any(x => x < 1000 || x >= 10000))
-                    Console.WriteLine($"Type {kvp.Key} has invalid: " +
-                                      string.Join(",", kvp.Value.Where(x => x < 1000 || x >= 10000)));
-            }
             BuildGraph();
-
 
             foreach (var start in graph.Keys.ToList())
             {
@@ -41,8 +34,6 @@ namespace CyclicalFigurateNumbers
                     return path.Sum(p=>p.Value);
                 }
             }
-
-
 
             return 0;
         }
@@ -78,7 +69,7 @@ namespace CyclicalFigurateNumbers
             foreach (var next in nexts)
             {
                 if (usedTypes.Contains(next.Type)) continue;
-                if (usedValues.Contains(next.Value)) continue; // ✅ prevent same number reused
+                if (usedValues.Contains(next.Value)) continue; 
 
                 usedTypes.Add(next.Type);
                 usedValues.Add(next.Value);
@@ -97,13 +88,13 @@ namespace CyclicalFigurateNumbers
 
         private void BuildGraph()
         {
-            foreach (var kvp in numbers) // kvp.Key = type, kvp.Value = list
+            foreach (var kvp in numbers) 
             {
                 int type = kvp.Key;
                 foreach (int value in kvp.Value)
                 {
                     int tail = value % 100;
-                    if (tail < 10) continue; // optional but very helpful
+                    if (tail < 10) continue; 
 
                     var nexts = numbers
                         .Where(x => x.Key != type)
