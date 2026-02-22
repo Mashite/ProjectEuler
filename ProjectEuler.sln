@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.9.34622.214
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11415.280 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-8", "Problem-8", "{36F33F72-ACE4-4CFA-BB18-94D4D3CC39B2}"
 EndProject
@@ -231,6 +231,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-62", "Problem-62", "{6B8EE421-104B-4FBB-B478-AE9A2A5F7F34}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubicPermutations", "CubicPermutations\CubicPermutations.csproj", "{E94DF6C3-9C3F-43BF-8D91-9A5FF719C6D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-63", "Problem-63", "{984A4197-AB98-45C7-8F3D-53675F9B6393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerfulDigitCounts", "PowerfulDigitCounts\PowerfulDigitCounts.csproj", "{A7041ABB-3A38-4083-941C-A6D24FF640FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -462,6 +466,10 @@ Global
 		{E94DF6C3-9C3F-43BF-8D91-9A5FF719C6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E94DF6C3-9C3F-43BF-8D91-9A5FF719C6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E94DF6C3-9C3F-43BF-8D91-9A5FF719C6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7041ABB-3A38-4083-941C-A6D24FF640FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7041ABB-3A38-4083-941C-A6D24FF640FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7041ABB-3A38-4083-941C-A6D24FF640FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7041ABB-3A38-4083-941C-A6D24FF640FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -523,6 +531,7 @@ Global
 		{81B4AE39-979A-47B0-86B0-282B60579E1D} = {DD6FACF5-7D37-4C73-8AD1-42116168D715}
 		{355EC5F1-8C31-4629-8509-057D71F09757} = {377A3329-A870-4434-9349-E28806ECD7F1}
 		{E94DF6C3-9C3F-43BF-8D91-9A5FF719C6D9} = {6B8EE421-104B-4FBB-B478-AE9A2A5F7F34}
+		{A7041ABB-3A38-4083-941C-A6D24FF640FA} = {984A4197-AB98-45C7-8F3D-53675F9B6393}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}

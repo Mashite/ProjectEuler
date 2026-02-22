@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\bin\Debug\net10.0\PowerfulDigitCounts.exe
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\bin\Debug\net10.0\PowerfulDigitCounts.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\bin\Debug\net10.0\PowerfulDigitCounts.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\bin\Debug\net10.0\PowerfulDigitCounts.dll
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\bin\Debug\net10.0\PowerfulDigitCounts.pdb
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\obj\Debug\net10.0\PowerfulDigitCounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\obj\Debug\net10.0\PowerfulDigitCounts.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\obj\Debug\net10.0\PowerfulDigitCounts.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\obj\Debug\net10.0\PowerfulDigitCounts.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\obj\Debug\net10.0\PowerfulDigitCounts.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\obj\Debug\net10.0\PowerfulDigitCounts.dll
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\obj\Debug\net10.0\refint\PowerfulDigitCounts.dll
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\obj\Debug\net10.0\PowerfulDigitCounts.pdb
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\obj\Debug\net10.0\PowerfulDigitCounts.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PowerfulDigitCounts\obj\Debug\net10.0\ref\PowerfulDigitCounts.dll

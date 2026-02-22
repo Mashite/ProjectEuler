@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PandigitalProducts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1140d8d50b8931c2b03938aaf419493e6c9179d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7466076cbb7d589dc5f44f6bcbd806a529bbad81")]
 [assembly: System.Reflection.AssemblyProductAttribute("PandigitalProducts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PandigitalProducts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

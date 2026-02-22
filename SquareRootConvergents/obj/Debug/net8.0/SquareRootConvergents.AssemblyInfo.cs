@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SquareRootConvergents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1140d8d50b8931c2b03938aaf419493e6c9179d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7466076cbb7d589dc5f44f6bcbd806a529bbad81")]
 [assembly: System.Reflection.AssemblyProductAttribute("SquareRootConvergents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SquareRootConvergents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
