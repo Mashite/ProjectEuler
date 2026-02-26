@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OddPeriodSquareRoots/1.0.0": {
+        "runtime": {
+          "OddPeriodSquareRoots.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OddPeriodSquareRoots/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

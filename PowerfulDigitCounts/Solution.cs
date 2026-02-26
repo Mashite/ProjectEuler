@@ -29,7 +29,7 @@ namespace PowerfulDigitCounts
                 }
             }
 
-            return count; //for 1^1
+            return count;
         }
 
 

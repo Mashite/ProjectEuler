@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\bin\Debug\net10.0\OddPeriodSquareRoots.exe
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\bin\Debug\net10.0\OddPeriodSquareRoots.deps.json
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\bin\Debug\net10.0\OddPeriodSquareRoots.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\bin\Debug\net10.0\OddPeriodSquareRoots.dll
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\bin\Debug\net10.0\OddPeriodSquareRoots.pdb
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\obj\Debug\net10.0\OddPeriodSquareRoots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\obj\Debug\net10.0\OddPeriodSquareRoots.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\obj\Debug\net10.0\OddPeriodSquareRoots.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\obj\Debug\net10.0\OddPeriodSquareRoots.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\obj\Debug\net10.0\OddPeriodSquareRoots.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\obj\Debug\net10.0\OddPeriodSquareRoots.dll
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\obj\Debug\net10.0\refint\OddPeriodSquareRoots.dll
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\obj\Debug\net10.0\OddPeriodSquareRoots.pdb
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\obj\Debug\net10.0\OddPeriodSquareRoots.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\OddPeriodSquareRoots\obj\Debug\net10.0\ref\OddPeriodSquareRoots.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountingSundays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7466076cbb7d589dc5f44f6bcbd806a529bbad81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ecf57ae0353e909aefdb2f134a69de71b57ca91")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountingSundays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountingSundays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
