@@ -44,39 +44,5 @@ namespace OddPeriodSquareRoots
             }
             return period;
         }
-
-        //public int Solve()
-        //{
-        //    int count = 0;
-        //    for (int n = 1; n <= 10000; n++)
-        //    {
-        //        if (IsSquare(n))
-        //            continue;
-        //        if (GetPeriod(n) % 2 == 1)
-        //            count++;
-        //    }
-        //    return count;
-        //}
-        //private bool IsSquare(int n)
-        //{
-        //    int root = (int)Math.Sqrt(n);
-        //    return root * root == n;
-        //}
-        //private int GetPeriod(int n)
-        //{
-        //    int m = 0;
-        //    int d = 1;
-        //    int a0 = (int)Math.Sqrt(n);
-        //    int a = a0;
-        //    int period = 0;
-        //    while (a != 2 * a0)
-        //    {
-        //        m = d * a - m;
-        //        d = (n - m * m) / d;
-        //        a = (a0 + m) / d;
-        //        period++;
-        //    }
-        //    return period;
-        //}
     }
 }

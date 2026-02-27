@@ -240,6 +240,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-64", "Problem-64", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddPeriodSquareRoots", "OddPeriodSquareRoots\OddPeriodSquareRoots.csproj", "{C4C8BA15-2274-4E79-B06A-E1B5ADD0F0D9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-65", "Problem-65", "{1D072434-02D9-486E-A716-DCE37D0B1E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvergentsOfE", "ConvergentsOfE\ConvergentsOfE.csproj", "{54B08768-B3F9-4FE3-9B08-445E702A072D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -478,6 +482,10 @@ Global
 		{C4C8BA15-2274-4E79-B06A-E1B5ADD0F0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4C8BA15-2274-4E79-B06A-E1B5ADD0F0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4C8BA15-2274-4E79-B06A-E1B5ADD0F0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B08768-B3F9-4FE3-9B08-445E702A072D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B08768-B3F9-4FE3-9B08-445E702A072D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B08768-B3F9-4FE3-9B08-445E702A072D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B08768-B3F9-4FE3-9B08-445E702A072D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -541,6 +549,7 @@ Global
 		{E94DF6C3-9C3F-43BF-8D91-9A5FF719C6D9} = {6B8EE421-104B-4FBB-B478-AE9A2A5F7F34}
 		{A7041ABB-3A38-4083-941C-A6D24FF640FA} = {984A4197-AB98-45C7-8F3D-53675F9B6393}
 		{C4C8BA15-2274-4E79-B06A-E1B5ADD0F0D9} = {3058C11A-869B-49B3-9010-FF58D636B5D2}
+		{54B08768-B3F9-4FE3-9B08-445E702A072D} = {1D072434-02D9-486E-A716-DCE37D0B1E78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}

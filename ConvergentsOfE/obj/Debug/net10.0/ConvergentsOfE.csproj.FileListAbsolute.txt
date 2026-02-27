@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\bin\Debug\net10.0\ConvergentsOfE.exe
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\bin\Debug\net10.0\ConvergentsOfE.deps.json
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\bin\Debug\net10.0\ConvergentsOfE.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\bin\Debug\net10.0\ConvergentsOfE.dll
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\bin\Debug\net10.0\ConvergentsOfE.pdb
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\obj\Debug\net10.0\ConvergentsOfE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\obj\Debug\net10.0\ConvergentsOfE.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\obj\Debug\net10.0\ConvergentsOfE.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\obj\Debug\net10.0\ConvergentsOfE.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\obj\Debug\net10.0\ConvergentsOfE.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\obj\Debug\net10.0\ConvergentsOfE.dll
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\obj\Debug\net10.0\refint\ConvergentsOfE.dll
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\obj\Debug\net10.0\ConvergentsOfE.pdb
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\obj\Debug\net10.0\ConvergentsOfE.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\ConvergentsOfE\obj\Debug\net10.0\ref\ConvergentsOfE.dll
