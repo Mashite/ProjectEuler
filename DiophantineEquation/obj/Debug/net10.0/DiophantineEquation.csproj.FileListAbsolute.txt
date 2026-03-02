@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\bin\Debug\net10.0\DiophantineEquation.exe
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\bin\Debug\net10.0\DiophantineEquation.deps.json
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\bin\Debug\net10.0\DiophantineEquation.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\bin\Debug\net10.0\DiophantineEquation.dll
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\bin\Debug\net10.0\DiophantineEquation.pdb
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\obj\Debug\net10.0\DiophantineEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\obj\Debug\net10.0\DiophantineEquation.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\obj\Debug\net10.0\DiophantineEquation.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\obj\Debug\net10.0\DiophantineEquation.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\obj\Debug\net10.0\DiophantineEquation.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\obj\Debug\net10.0\DiophantineEquation.dll
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\obj\Debug\net10.0\refint\DiophantineEquation.dll
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\obj\Debug\net10.0\DiophantineEquation.pdb
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\obj\Debug\net10.0\DiophantineEquation.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\DiophantineEquation\obj\Debug\net10.0\ref\DiophantineEquation.dll

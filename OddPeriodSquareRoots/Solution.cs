@@ -9,7 +9,7 @@ namespace OddPeriodSquareRoots
         public int Solve()
         {
             int count = 0;
-            for (int n=1;n<=10000;n++)
+            for (int n=2;n<=10;n++)
             {
                 if(IsSquare(n))continue;
                 if(GetPeriod(n)%2 !=0)
