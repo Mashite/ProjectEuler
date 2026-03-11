@@ -3,5 +3,5 @@ using DiophantineEquation;
 using System.Numerics;
 
 Solution solution = new Solution(); 
-BigInteger res=solution.Solve();
+int res=solution.Solve();
 Console.WriteLine("Hello, World!");
