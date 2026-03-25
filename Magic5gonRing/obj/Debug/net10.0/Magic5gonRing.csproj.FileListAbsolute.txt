@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\bin\Debug\net10.0\Magic5gonRing.exe
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\bin\Debug\net10.0\Magic5gonRing.deps.json
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\bin\Debug\net10.0\Magic5gonRing.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\bin\Debug\net10.0\Magic5gonRing.dll
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\bin\Debug\net10.0\Magic5gonRing.pdb
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\obj\Debug\net10.0\Magic5gonRing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\obj\Debug\net10.0\Magic5gonRing.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\obj\Debug\net10.0\Magic5gonRing.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\obj\Debug\net10.0\Magic5gonRing.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\obj\Debug\net10.0\Magic5gonRing.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\obj\Debug\net10.0\Magic5gonRing.dll
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\obj\Debug\net10.0\refint\Magic5gonRing.dll
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\obj\Debug\net10.0\Magic5gonRing.pdb
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\obj\Debug\net10.0\Magic5gonRing.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\Magic5gonRing\obj\Debug\net10.0\ref\Magic5gonRing.dll
