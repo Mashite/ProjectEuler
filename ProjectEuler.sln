@@ -252,6 +252,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-68", "Problem-68", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic5gonRing", "Magic5gonRing\Magic5gonRing.csproj", "{4A5D21E6-4773-4EB5-82AA-94495E7EE4EE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-69", "Problem-69", "{5745FA11-3239-4655-8449-ECBA27A3D2BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotientMaximum", "TotientMaximum\TotientMaximum.csproj", "{E4F78031-835F-4024-9EE8-E39C927BDF06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -502,6 +506,10 @@ Global
 		{4A5D21E6-4773-4EB5-82AA-94495E7EE4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A5D21E6-4773-4EB5-82AA-94495E7EE4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A5D21E6-4773-4EB5-82AA-94495E7EE4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F78031-835F-4024-9EE8-E39C927BDF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F78031-835F-4024-9EE8-E39C927BDF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F78031-835F-4024-9EE8-E39C927BDF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F78031-835F-4024-9EE8-E39C927BDF06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -568,6 +576,7 @@ Global
 		{54B08768-B3F9-4FE3-9B08-445E702A072D} = {1D072434-02D9-486E-A716-DCE37D0B1E78}
 		{80145F62-0EE2-44CA-8A3F-5B991D774DB9} = {BBC3088C-8D0F-4CCB-99B1-7829FF5D56BF}
 		{4A5D21E6-4773-4EB5-82AA-94495E7EE4EE} = {25CD8EE6-FD47-4465-BC50-3980915FBE7F}
+		{E4F78031-835F-4024-9EE8-E39C927BDF06} = {5745FA11-3239-4655-8449-ECBA27A3D2BA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}

@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\bin\Debug\net10.0\TotientMaximum.exe
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\bin\Debug\net10.0\TotientMaximum.deps.json
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\bin\Debug\net10.0\TotientMaximum.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\bin\Debug\net10.0\TotientMaximum.dll
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\bin\Debug\net10.0\TotientMaximum.pdb
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\obj\Debug\net10.0\TotientMaximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\obj\Debug\net10.0\TotientMaximum.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\obj\Debug\net10.0\TotientMaximum.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\obj\Debug\net10.0\TotientMaximum.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\obj\Debug\net10.0\TotientMaximum.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\obj\Debug\net10.0\TotientMaximum.dll
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\obj\Debug\net10.0\refint\TotientMaximum.dll
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\obj\Debug\net10.0\TotientMaximum.pdb
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\obj\Debug\net10.0\TotientMaximum.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\TotientMaximum\obj\Debug\net10.0\ref\TotientMaximum.dll
