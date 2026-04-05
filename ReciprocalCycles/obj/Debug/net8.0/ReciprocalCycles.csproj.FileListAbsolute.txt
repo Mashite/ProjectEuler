@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\bin\Debug\net8.0\ReciprocalCycles.exe
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\bin\Debug\net8.0\ReciprocalCycles.deps.json
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\bin\Debug\net8.0\ReciprocalCycles.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\bin\Debug\net8.0\ReciprocalCycles.dll
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\bin\Debug\net8.0\ReciprocalCycles.pdb
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\obj\Debug\net8.0\ReciprocalCycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\obj\Debug\net8.0\ReciprocalCycles.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\obj\Debug\net8.0\ReciprocalCycles.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\obj\Debug\net8.0\ReciprocalCycles.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\obj\Debug\net8.0\ReciprocalCycles.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\obj\Debug\net8.0\ReciprocalCycles.dll
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\obj\Debug\net8.0\refint\ReciprocalCycles.dll
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\obj\Debug\net8.0\ReciprocalCycles.pdb
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\obj\Debug\net8.0\ReciprocalCycles.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\ReciprocalCycles\obj\Debug\net8.0\ref\ReciprocalCycles.dll

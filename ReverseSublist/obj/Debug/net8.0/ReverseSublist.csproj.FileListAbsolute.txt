@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\bin\Debug\net8.0\ReverseSublist.exe
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\bin\Debug\net8.0\ReverseSublist.deps.json
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\bin\Debug\net8.0\ReverseSublist.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\bin\Debug\net8.0\ReverseSublist.dll
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\bin\Debug\net8.0\ReverseSublist.pdb
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\obj\Debug\net8.0\ReverseSublist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\obj\Debug\net8.0\ReverseSublist.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\obj\Debug\net8.0\ReverseSublist.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\obj\Debug\net8.0\ReverseSublist.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\obj\Debug\net8.0\ReverseSublist.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\obj\Debug\net8.0\ReverseSublist.dll
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\obj\Debug\net8.0\refint\ReverseSublist.dll
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\obj\Debug\net8.0\ReverseSublist.pdb
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\obj\Debug\net8.0\ReverseSublist.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\ReverseSublist\obj\Debug\net8.0\ref\ReverseSublist.dll

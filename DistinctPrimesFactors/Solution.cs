@@ -19,11 +19,7 @@ namespace DistinctPrimesFactors
             int count = 0;
             for (int i = 210; i < LIMIT; i++)
             {
-                if (primes.Contains(i))
-                {
-                    count = 0; continue;
-                }
-
+    
                 int distinct = 0;
                 int d = i;
                 foreach (int p in primes)

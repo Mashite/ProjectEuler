@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\bin\Debug\net8.0\Digit1000FibonacciNumber.exe
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\bin\Debug\net8.0\Digit1000FibonacciNumber.deps.json
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\bin\Debug\net8.0\Digit1000FibonacciNumber.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\bin\Debug\net8.0\Digit1000FibonacciNumber.dll
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\bin\Debug\net8.0\Digit1000FibonacciNumber.pdb
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\obj\Debug\net8.0\Digit1000FibonacciNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\obj\Debug\net8.0\Digit1000FibonacciNumber.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\obj\Debug\net8.0\Digit1000FibonacciNumber.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\obj\Debug\net8.0\Digit1000FibonacciNumber.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\obj\Debug\net8.0\Digit1000FibonacciNumber.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\obj\Debug\net8.0\Digit1000FibonacciNumber.dll
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\obj\Debug\net8.0\refint\Digit1000FibonacciNumber.dll
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\obj\Debug\net8.0\Digit1000FibonacciNumber.pdb
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\obj\Debug\net8.0\Digit1000FibonacciNumber.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\Digit1000FibonacciNumber\obj\Debug\net8.0\ref\Digit1000FibonacciNumber.dll

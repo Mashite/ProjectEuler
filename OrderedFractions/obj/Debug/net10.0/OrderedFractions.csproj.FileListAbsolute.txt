@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\bin\Debug\net10.0\OrderedFractions.exe
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\bin\Debug\net10.0\OrderedFractions.deps.json
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\bin\Debug\net10.0\OrderedFractions.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\bin\Debug\net10.0\OrderedFractions.dll
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\bin\Debug\net10.0\OrderedFractions.pdb
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\obj\Debug\net10.0\OrderedFractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\obj\Debug\net10.0\OrderedFractions.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\obj\Debug\net10.0\OrderedFractions.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\obj\Debug\net10.0\OrderedFractions.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\obj\Debug\net10.0\OrderedFractions.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\obj\Debug\net10.0\OrderedFractions.dll
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\obj\Debug\net10.0\refint\OrderedFractions.dll
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\obj\Debug\net10.0\OrderedFractions.pdb
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\obj\Debug\net10.0\OrderedFractions.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\OrderedFractions\obj\Debug\net10.0\ref\OrderedFractions.dll

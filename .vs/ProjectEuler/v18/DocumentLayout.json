@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4F78031-835F-4024-9EE8-E39C927BDF06}|TotientMaximum\\TotientMaximum.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\totientmaximum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4F78031-835F-4024-9EE8-E39C927BDF06}|TotientMaximum\\TotientMaximum.csproj|solutionrelative:totientmaximum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66406CA2-4259-44E0-974B-7BF844007EBE}|OrderedFractions\\OrderedFractions.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\orderedfractions\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66406CA2-4259-44E0-974B-7BF844007EBE}|OrderedFractions\\OrderedFractions.csproj|solutionrelative:orderedfractions\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E1559E7-D3EF-4A27-B6A8-F75FDB1F85FF}|DistinctPrimesFactors\\DistinctPrimesFactors.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\distinctprimesfactors\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E1559E7-D3EF-4A27-B6A8-F75FDB1F85FF}|DistinctPrimesFactors\\DistinctPrimesFactors.csproj|solutionrelative:distinctprimesfactors\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66406CA2-4259-44E0-974B-7BF844007EBE}|OrderedFractions\\OrderedFractions.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\orderedfractions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66406CA2-4259-44E0-974B-7BF844007EBE}|OrderedFractions\\OrderedFractions.csproj|solutionrelative:orderedfractions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9F33FC8-0777-4067-8DC7-8A6D10ACFACA}|PermutedMultiples\\PermutedMultiples.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\permutedmultiples\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9F33FC8-0777-4067-8DC7-8A6D10ACFACA}|PermutedMultiples\\PermutedMultiples.csproj|solutionrelative:permutedmultiples\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7583540F-AAAD-444F-95E3-CB0BC9871558}|CombinatoricSelections\\CombinatoricSelections.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\combinatoricselections\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7583540F-AAAD-444F-95E3-CB0BC9871558}|CombinatoricSelections\\CombinatoricSelections.csproj|solutionrelative:combinatoricselections\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCFFF65-F300-4B09-BE55-3B37F66FE576}|LychrelNumbers\\LychrelNumbers.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\lychrelnumbers\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCFFF65-F300-4B09-BE55-3B37F66FE576}|LychrelNumbers\\LychrelNumbers.csproj|solutionrelative:lychrelnumbers\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCFFF65-F300-4B09-BE55-3B37F66FE576}|LychrelNumbers\\LychrelNumbers.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\lychrelnumbers\\lychrelnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6BCFFF65-F300-4B09-BE55-3B37F66FE576}|LychrelNumbers\\LychrelNumbers.csproj|solutionrelative:lychrelnumbers\\lychrelnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4F78031-835F-4024-9EE8-E39C927BDF06}|TotientMaximum\\TotientMaximum.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\totientmaximum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4F78031-835F-4024-9EE8-E39C927BDF06}|TotientMaximum\\TotientMaximum.csproj|solutionrelative:totientmaximum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A5D21E6-4773-4EB5-82AA-94495E7EE4EE}|Magic5gonRing\\Magic5gonRing.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\magic5gonring\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A5D21E6-4773-4EB5-82AA-94495E7EE4EE}|Magic5gonRing\\Magic5gonRing.csproj|solutionrelative:magic5gonring\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A5D21E6-4773-4EB5-82AA-94495E7EE4EE}|Magic5gonRing\\Magic5gonRing.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\magic5gonring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A5D21E6-4773-4EB5-82AA-94495E7EE4EE}|Magic5gonRing\\Magic5gonRing.csproj|solutionrelative:magic5gonring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97C2BDB7-8786-4198-BCE7-F1677316F34E}|TotientPermutation\\TotientPermutation.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\totientpermutation\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C2BDB7-8786-4198-BCE7-F1677316F34E}|TotientPermutation\\TotientPermutation.csproj|solutionrelative:totientpermutation\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,119 +70,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\DistinctPrimesFactors\\Solution.cs",
-              "RelativeDocumentMoniker": "DistinctPrimesFactors\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\DistinctPrimesFactors\\Solution.cs",
-              "RelativeToolTip": "DistinctPrimesFactors\\Solution.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T01:29:00.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PermutedMultiples\\Solution.cs",
-              "RelativeDocumentMoniker": "PermutedMultiples\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PermutedMultiples\\Solution.cs",
-              "RelativeToolTip": "PermutedMultiples\\Solution.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T04:33:24.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CombinatoricSelections\\Solution.cs",
-              "RelativeDocumentMoniker": "CombinatoricSelections\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CombinatoricSelections\\Solution.cs",
-              "RelativeToolTip": "CombinatoricSelections\\Solution.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T04:33:24.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\LychrelNumbers\\Solution.cs",
-              "RelativeDocumentMoniker": "LychrelNumbers\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\LychrelNumbers\\Solution.cs",
-              "RelativeToolTip": "LychrelNumbers\\Solution.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T04:33:24.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LychrelNumbers",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\LychrelNumbers\\LychrelNumbers.csproj",
-              "RelativeDocumentMoniker": "LychrelNumbers\\LychrelNumbers.csproj",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\LychrelNumbers\\LychrelNumbers.csproj",
-              "RelativeToolTip": "LychrelNumbers\\LychrelNumbers.csproj",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\TotientPermutation\\Solution.cs",
+              "RelativeDocumentMoniker": "TotientPermutation\\Solution.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\TotientPermutation\\Solution.cs",
+              "RelativeToolTip": "TotientPermutation\\Solution.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-30T01:28:41.782Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T04:01:59.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OrderedFractions\\Program.cs",
+              "RelativeDocumentMoniker": "OrderedFractions\\Program.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OrderedFractions\\Program.cs",
+              "RelativeToolTip": "OrderedFractions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:53:48.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\TotientMaximum\\Solution.cs",
-              "RelativeDocumentMoniker": "TotientMaximum\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\TotientMaximum\\Solution.cs",
-              "RelativeToolTip": "TotientMaximum\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OrderedFractions\\Solution.cs",
+              "RelativeDocumentMoniker": "OrderedFractions\\Solution.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OrderedFractions\\Solution.cs",
+              "RelativeToolTip": "OrderedFractions\\Solution.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T03:53:18.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\TotientMaximum\\Program.cs",
-              "RelativeDocumentMoniker": "TotientMaximum\\Program.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\TotientMaximum\\Program.cs",
-              "RelativeToolTip": "TotientMaximum\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T20:41:09.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Magic5gonRing\\Program.cs",
-              "RelativeDocumentMoniker": "Magic5gonRing\\Program.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Magic5gonRing\\Program.cs",
-              "RelativeToolTip": "Magic5gonRing\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:20:49.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Magic5gonRing\\Solution.cs",
-              "RelativeDocumentMoniker": "Magic5gonRing\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Magic5gonRing\\Solution.cs",
-              "RelativeToolTip": "Magic5gonRing\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:18:10.256Z",
+              "WhenOpened": "2026-04-05T03:35:33.368Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\bin\Debug\net8.0\DigitFactorials.exe
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\bin\Debug\net8.0\DigitFactorials.deps.json
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\bin\Debug\net8.0\DigitFactorials.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\bin\Debug\net8.0\DigitFactorials.dll
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\bin\Debug\net8.0\DigitFactorials.pdb
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\obj\Debug\net8.0\DigitFactorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\obj\Debug\net8.0\DigitFactorials.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\obj\Debug\net8.0\DigitFactorials.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\obj\Debug\net8.0\DigitFactorials.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\obj\Debug\net8.0\DigitFactorials.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\obj\Debug\net8.0\DigitFactorials.dll
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\obj\Debug\net8.0\refint\DigitFactorials.dll
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\obj\Debug\net8.0\DigitFactorials.pdb
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\obj\Debug\net8.0\DigitFactorials.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorials\obj\Debug\net8.0\ref\DigitFactorials.dll

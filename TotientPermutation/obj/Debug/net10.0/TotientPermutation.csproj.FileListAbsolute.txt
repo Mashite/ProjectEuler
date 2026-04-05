@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\bin\Debug\net10.0\TotientPermutation.exe
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\bin\Debug\net10.0\TotientPermutation.deps.json
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\bin\Debug\net10.0\TotientPermutation.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\bin\Debug\net10.0\TotientPermutation.dll
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\bin\Debug\net10.0\TotientPermutation.pdb
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\obj\Debug\net10.0\TotientPermutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\obj\Debug\net10.0\TotientPermutation.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\obj\Debug\net10.0\TotientPermutation.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\obj\Debug\net10.0\TotientPermutation.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\obj\Debug\net10.0\TotientPermutation.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\obj\Debug\net10.0\TotientPermutation.dll
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\obj\Debug\net10.0\refint\TotientPermutation.dll
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\obj\Debug\net10.0\TotientPermutation.pdb
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\obj\Debug\net10.0\TotientPermutation.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\TotientPermutation\obj\Debug\net10.0\ref\TotientPermutation.dll

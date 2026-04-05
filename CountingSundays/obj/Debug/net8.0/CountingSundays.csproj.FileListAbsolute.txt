@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\bin\Debug\net8.0\CountingSundays.exe
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\bin\Debug\net8.0\CountingSundays.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\bin\Debug\net8.0\CountingSundays.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\bin\Debug\net8.0\CountingSundays.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\bin\Debug\net8.0\CountingSundays.pdb
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\obj\Debug\net8.0\CountingSundays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\obj\Debug\net8.0\CountingSundays.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\obj\Debug\net8.0\CountingSundays.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\obj\Debug\net8.0\CountingSundays.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\obj\Debug\net8.0\CountingSundays.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\obj\Debug\net8.0\CountingSundays.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\obj\Debug\net8.0\refint\CountingSundays.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\obj\Debug\net8.0\CountingSundays.pdb
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\obj\Debug\net8.0\CountingSundays.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingSundays\obj\Debug\net8.0\ref\CountingSundays.dll

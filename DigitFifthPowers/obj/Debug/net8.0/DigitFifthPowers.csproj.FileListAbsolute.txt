@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\bin\Debug\net8.0\DigitFifthPowers.exe
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\bin\Debug\net8.0\DigitFifthPowers.deps.json
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\bin\Debug\net8.0\DigitFifthPowers.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\bin\Debug\net8.0\DigitFifthPowers.dll
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\bin\Debug\net8.0\DigitFifthPowers.pdb
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\obj\Debug\net8.0\DigitFifthPowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\obj\Debug\net8.0\DigitFifthPowers.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\obj\Debug\net8.0\DigitFifthPowers.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\obj\Debug\net8.0\DigitFifthPowers.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\obj\Debug\net8.0\DigitFifthPowers.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\obj\Debug\net8.0\DigitFifthPowers.dll
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\obj\Debug\net8.0\refint\DigitFifthPowers.dll
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\obj\Debug\net8.0\DigitFifthPowers.pdb
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\obj\Debug\net8.0\DigitFifthPowers.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\DigitFifthPowers\obj\Debug\net8.0\ref\DigitFifthPowers.dll

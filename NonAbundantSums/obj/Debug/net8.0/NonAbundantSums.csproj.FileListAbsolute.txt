@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\bin\Debug\net8.0\NonAbundantSums.exe
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\bin\Debug\net8.0\NonAbundantSums.deps.json
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\bin\Debug\net8.0\NonAbundantSums.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\bin\Debug\net8.0\NonAbundantSums.dll
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\bin\Debug\net8.0\NonAbundantSums.pdb
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\obj\Debug\net8.0\NonAbundantSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\obj\Debug\net8.0\NonAbundantSums.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\obj\Debug\net8.0\NonAbundantSums.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\obj\Debug\net8.0\NonAbundantSums.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\obj\Debug\net8.0\NonAbundantSums.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\obj\Debug\net8.0\NonAbundantSums.dll
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\obj\Debug\net8.0\refint\NonAbundantSums.dll
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\obj\Debug\net8.0\NonAbundantSums.pdb
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\obj\Debug\net8.0\NonAbundantSums.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\NonAbundantSums\obj\Debug\net8.0\ref\NonAbundantSums.dll

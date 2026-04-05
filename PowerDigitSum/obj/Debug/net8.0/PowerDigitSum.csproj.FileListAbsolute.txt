@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\bin\Debug\net8.0\PowerDigitSum.exe
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\bin\Debug\net8.0\PowerDigitSum.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\bin\Debug\net8.0\PowerDigitSum.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\bin\Debug\net8.0\PowerDigitSum.dll
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\bin\Debug\net8.0\PowerDigitSum.pdb
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\obj\Debug\net8.0\PowerDigitSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\obj\Debug\net8.0\PowerDigitSum.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\obj\Debug\net8.0\PowerDigitSum.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\obj\Debug\net8.0\PowerDigitSum.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\obj\Debug\net8.0\PowerDigitSum.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\obj\Debug\net8.0\PowerDigitSum.dll
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\obj\Debug\net8.0\refint\PowerDigitSum.dll
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\obj\Debug\net8.0\PowerDigitSum.pdb
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\obj\Debug\net8.0\PowerDigitSum.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PowerDigitSum\obj\Debug\net8.0\ref\PowerDigitSum.dll

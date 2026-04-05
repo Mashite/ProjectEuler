@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\bin\Debug\net8.0\LongestCollatzSequence.exe
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\bin\Debug\net8.0\LongestCollatzSequence.deps.json
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\bin\Debug\net8.0\LongestCollatzSequence.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\bin\Debug\net8.0\LongestCollatzSequence.dll
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\bin\Debug\net8.0\LongestCollatzSequence.pdb
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\obj\Debug\net8.0\LongestCollatzSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\obj\Debug\net8.0\LongestCollatzSequence.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\obj\Debug\net8.0\LongestCollatzSequence.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\obj\Debug\net8.0\LongestCollatzSequence.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\obj\Debug\net8.0\LongestCollatzSequence.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\obj\Debug\net8.0\LongestCollatzSequence.dll
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\obj\Debug\net8.0\refint\LongestCollatzSequence.dll
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\obj\Debug\net8.0\LongestCollatzSequence.pdb
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\obj\Debug\net8.0\LongestCollatzSequence.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\LongestCollatzSequence\obj\Debug\net8.0\ref\LongestCollatzSequence.dll

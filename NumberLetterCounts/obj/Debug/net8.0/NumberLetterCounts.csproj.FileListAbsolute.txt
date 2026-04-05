@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\bin\Debug\net8.0\NumberLetterCounts.exe
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\bin\Debug\net8.0\NumberLetterCounts.deps.json
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\bin\Debug\net8.0\NumberLetterCounts.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\bin\Debug\net8.0\NumberLetterCounts.dll
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\bin\Debug\net8.0\NumberLetterCounts.pdb
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\obj\Debug\net8.0\NumberLetterCounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\obj\Debug\net8.0\NumberLetterCounts.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\obj\Debug\net8.0\NumberLetterCounts.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\obj\Debug\net8.0\NumberLetterCounts.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\obj\Debug\net8.0\NumberLetterCounts.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\obj\Debug\net8.0\NumberLetterCounts.dll
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\obj\Debug\net8.0\refint\NumberLetterCounts.dll
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\obj\Debug\net8.0\NumberLetterCounts.pdb
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\obj\Debug\net8.0\NumberLetterCounts.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\NumberLetterCounts\obj\Debug\net8.0\ref\NumberLetterCounts.dll
