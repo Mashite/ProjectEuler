@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\bin\Debug\net10.0\CountingFractions.exe
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\bin\Debug\net10.0\CountingFractions.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\bin\Debug\net10.0\CountingFractions.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\bin\Debug\net10.0\CountingFractions.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\bin\Debug\net10.0\CountingFractions.pdb
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\obj\Debug\net10.0\CountingFractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\obj\Debug\net10.0\CountingFractions.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\obj\Debug\net10.0\CountingFractions.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\obj\Debug\net10.0\CountingFractions.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\obj\Debug\net10.0\CountingFractions.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\obj\Debug\net10.0\CountingFractions.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\obj\Debug\net10.0\refint\CountingFractions.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\obj\Debug\net10.0\CountingFractions.pdb
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\obj\Debug\net10.0\CountingFractions.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingFractions\obj\Debug\net10.0\ref\CountingFractions.dll

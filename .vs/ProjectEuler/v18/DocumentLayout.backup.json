@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E03859C0-41F9-4C7E-8DAD-BDF904FE8B9A}|CountingFractions\\CountingFractions.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\countingfractions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03859C0-41F9-4C7E-8DAD-BDF904FE8B9A}|CountingFractions\\CountingFractions.csproj|solutionrelative:countingfractions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03859C0-41F9-4C7E-8DAD-BDF904FE8B9A}|CountingFractions\\CountingFractions.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\countingfractions\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03859C0-41F9-4C7E-8DAD-BDF904FE8B9A}|CountingFractions\\CountingFractions.csproj|solutionrelative:countingfractions\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F78031-835F-4024-9EE8-E39C927BDF06}|TotientMaximum\\TotientMaximum.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\totientmaximum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F78031-835F-4024-9EE8-E39C927BDF06}|TotientMaximum\\TotientMaximum.csproj|solutionrelative:totientmaximum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C2BDB7-8786-4198-BCE7-F1677316F34E}|TotientPermutation\\TotientPermutation.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\totientpermutation\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C2BDB7-8786-4198-BCE7-F1677316F34E}|TotientPermutation\\TotientPermutation.csproj|solutionrelative:totientpermutation\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66406CA2-4259-44E0-974B-7BF844007EBE}|OrderedFractions\\OrderedFractions.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\orderedfractions\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66406CA2-4259-44E0-974B-7BF844007EBE}|OrderedFractions\\OrderedFractions.csproj|solutionrelative:orderedfractions\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66406CA2-4259-44E0-974B-7BF844007EBE}|OrderedFractions\\OrderedFractions.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\orderedfractions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66406CA2-4259-44E0-974B-7BF844007EBE}|OrderedFractions\\OrderedFractions.csproj|solutionrelative:orderedfractions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97C2BDB7-8786-4198-BCE7-F1677316F34E}|TotientPermutation\\TotientPermutation.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\totientpermutation\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C2BDB7-8786-4198-BCE7-F1677316F34E}|TotientPermutation\\TotientPermutation.csproj|solutionrelative:totientpermutation\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,6 +84,45 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\TotientMaximum\\Solution.cs",
+              "RelativeDocumentMoniker": "TotientMaximum\\Solution.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\TotientMaximum\\Solution.cs",
+              "RelativeToolTip": "TotientMaximum\\Solution.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T03:23:28.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingFractions\\Solution.cs",
+              "RelativeDocumentMoniker": "CountingFractions\\Solution.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingFractions\\Solution.cs*",
+              "RelativeToolTip": "CountingFractions\\Solution.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:19:49.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingFractions\\Program.cs",
+              "RelativeDocumentMoniker": "CountingFractions\\Program.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingFractions\\Program.cs*",
+              "RelativeToolTip": "CountingFractions\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:19:34.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\TotientPermutation\\Solution.cs",
               "RelativeDocumentMoniker": "TotientPermutation\\Solution.cs",
               "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\TotientPermutation\\Solution.cs",
@@ -83,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OrderedFractions\\Program.cs",
               "RelativeDocumentMoniker": "OrderedFractions\\Program.cs",
@@ -91,18 +142,17 @@
               "RelativeToolTip": "OrderedFractions\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T03:53:48.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T03:53:48.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OrderedFractions\\Solution.cs",
               "RelativeDocumentMoniker": "OrderedFractions\\Solution.cs",
               "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OrderedFractions\\Solution.cs",
               "RelativeToolTip": "OrderedFractions\\Solution.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T03:35:33.368Z",
               "EditorCaption": ""

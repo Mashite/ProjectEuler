@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OddPeriodSquareRoots")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e621ca2f585128a8eec7dbd1fbb2df4a3115d6c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd28a20d7d918d007c5d2435ae61d2b156b8bcff")]
 [assembly: System.Reflection.AssemblyProductAttribute("OddPeriodSquareRoots")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OddPeriodSquareRoots")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
