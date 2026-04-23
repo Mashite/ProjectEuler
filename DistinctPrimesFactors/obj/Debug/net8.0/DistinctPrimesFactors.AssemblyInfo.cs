@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DistinctPrimesFactors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd28a20d7d918d007c5d2435ae61d2b156b8bcff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+457acf12687747f4192e248605d19708871f95f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DistinctPrimesFactors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DistinctPrimesFactors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

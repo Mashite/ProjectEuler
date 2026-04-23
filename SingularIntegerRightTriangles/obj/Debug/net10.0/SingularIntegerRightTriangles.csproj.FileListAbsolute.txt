@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\bin\Debug\net10.0\SingularIntegerRightTriangles.exe
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\bin\Debug\net10.0\SingularIntegerRightTriangles.deps.json
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\bin\Debug\net10.0\SingularIntegerRightTriangles.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\bin\Debug\net10.0\SingularIntegerRightTriangles.dll
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\bin\Debug\net10.0\SingularIntegerRightTriangles.pdb
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\obj\Debug\net10.0\SingularIntegerRightTriangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\obj\Debug\net10.0\SingularIntegerRightTriangles.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\obj\Debug\net10.0\SingularIntegerRightTriangles.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\obj\Debug\net10.0\SingularIntegerRightTriangles.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\obj\Debug\net10.0\SingularIntegerRightTriangles.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\obj\Debug\net10.0\SingularIntegerRightTriangles.dll
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\obj\Debug\net10.0\refint\SingularIntegerRightTriangles.dll
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\obj\Debug\net10.0\SingularIntegerRightTriangles.pdb
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\obj\Debug\net10.0\SingularIntegerRightTriangles.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\SingularIntegerRightTriangles\obj\Debug\net10.0\ref\SingularIntegerRightTriangles.dll

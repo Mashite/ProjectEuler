@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\bin\Debug\net10.0\DigitFactorialChains.exe
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\bin\Debug\net10.0\DigitFactorialChains.deps.json
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\bin\Debug\net10.0\DigitFactorialChains.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\bin\Debug\net10.0\DigitFactorialChains.dll
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\bin\Debug\net10.0\DigitFactorialChains.pdb
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\obj\Debug\net10.0\DigitFactorialChains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\obj\Debug\net10.0\DigitFactorialChains.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\obj\Debug\net10.0\DigitFactorialChains.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\obj\Debug\net10.0\DigitFactorialChains.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\obj\Debug\net10.0\DigitFactorialChains.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\obj\Debug\net10.0\DigitFactorialChains.dll
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\obj\Debug\net10.0\refint\DigitFactorialChains.dll
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\obj\Debug\net10.0\DigitFactorialChains.pdb
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\obj\Debug\net10.0\DigitFactorialChains.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\DigitFactorialChains\obj\Debug\net10.0\ref\DigitFactorialChains.dll
