@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SubstringDivisibility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+457acf12687747f4192e248605d19708871f95f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d530c4c91bf7b7a0bc1b49f57a432a552d97e537")]
 [assembly: System.Reflection.AssemblyProductAttribute("SubstringDivisibility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SubstringDivisibility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

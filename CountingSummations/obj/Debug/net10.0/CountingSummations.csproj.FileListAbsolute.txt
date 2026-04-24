@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\bin\Debug\net10.0\CountingSummations.exe
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\bin\Debug\net10.0\CountingSummations.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\bin\Debug\net10.0\CountingSummations.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\bin\Debug\net10.0\CountingSummations.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\bin\Debug\net10.0\CountingSummations.pdb
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\obj\Debug\net10.0\CountingSummations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\obj\Debug\net10.0\CountingSummations.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\obj\Debug\net10.0\CountingSummations.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\obj\Debug\net10.0\CountingSummations.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\obj\Debug\net10.0\CountingSummations.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\obj\Debug\net10.0\CountingSummations.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\obj\Debug\net10.0\refint\CountingSummations.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\obj\Debug\net10.0\CountingSummations.pdb
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\obj\Debug\net10.0\CountingSummations.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingSummations\obj\Debug\net10.0\ref\CountingSummations.dll
