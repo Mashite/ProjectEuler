@@ -6,16 +6,17 @@ namespace CountingSummations
 {
     internal class Soluton
     {
-        private int[,] memo = new int[101, 100];
+        private int[,] memo = new int[11, 10];
 
         public int Solve()
         {
-            return Count(100, 99);
+            return Count(10, 9);
         }
 
         public int Count(int n, int m)
         {
-            if (n == 0) return 1;
+            Console.WriteLine($"({n}, {m})");
+            if (n == 0) { Console.WriteLine($"Count 1"); return 1; }
             if (n < 0 || m == 0) return 0;
 
             if (memo[n, m] != 0)

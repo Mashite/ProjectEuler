@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PermutedMultiples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d530c4c91bf7b7a0bc1b49f57a432a552d97e537")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e398593a3b34e27f1cd4b7c2a734b76690b2f0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PermutedMultiples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PermutedMultiples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PrimeSummations/1.0.0": {
+        "runtime": {
+          "PrimeSummations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeSummations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

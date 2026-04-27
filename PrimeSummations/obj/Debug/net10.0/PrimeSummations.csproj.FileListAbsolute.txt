@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\bin\Debug\net10.0\PrimeSummations.exe
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\bin\Debug\net10.0\PrimeSummations.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\bin\Debug\net10.0\PrimeSummations.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\bin\Debug\net10.0\PrimeSummations.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\bin\Debug\net10.0\PrimeSummations.pdb
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\obj\Debug\net10.0\PrimeSummations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\obj\Debug\net10.0\PrimeSummations.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\obj\Debug\net10.0\PrimeSummations.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\obj\Debug\net10.0\PrimeSummations.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\obj\Debug\net10.0\PrimeSummations.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\obj\Debug\net10.0\PrimeSummations.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\obj\Debug\net10.0\refint\PrimeSummations.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\obj\Debug\net10.0\PrimeSummations.pdb
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\obj\Debug\net10.0\PrimeSummations.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimeSummations\obj\Debug\net10.0\ref\PrimeSummations.dll

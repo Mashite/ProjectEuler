@@ -3,68 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{385A0ABB-BA6B-47B5-ADA6-B3440CBEEB90}|CoinSums\\CoinSums.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\coinsums\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{385A0ABB-BA6B-47B5-ADA6-B3440CBEEB90}|CoinSums\\CoinSums.csproj|solutionrelative:coinsums\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0638C12B-FEA4-4EB1-8EAC-6D3ADAEEE481}|CoinPartitions\\CoinPartitions.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\coinpartitions\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0638C12B-FEA4-4EB1-8EAC-6D3ADAEEE481}|CoinPartitions\\CoinPartitions.csproj|solutionrelative:coinpartitions\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{385A0ABB-BA6B-47B5-ADA6-B3440CBEEB90}|CoinSums\\CoinSums.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\coinsums\\coinsums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{385A0ABB-BA6B-47B5-ADA6-B3440CBEEB90}|CoinSums\\CoinSums.csproj|solutionrelative:coinsums\\coinsums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAE90F08-5FFA-4081-ACFB-7331AD3E43DD}|CountingSummations\\CountingSummations.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\countingsummations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAE90F08-5FFA-4081-ACFB-7331AD3E43DD}|CountingSummations\\CountingSummations.csproj|solutionrelative:countingsummations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0638C12B-FEA4-4EB1-8EAC-6D3ADAEEE481}|CoinPartitions\\CoinPartitions.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\coinpartitions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0638C12B-FEA4-4EB1-8EAC-6D3ADAEEE481}|CoinPartitions\\CoinPartitions.csproj|solutionrelative:coinpartitions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAE90F08-5FFA-4081-ACFB-7331AD3E43DD}|CountingSummations\\CountingSummations.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\countingsummations\\soluton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAE90F08-5FFA-4081-ACFB-7331AD3E43DD}|CountingSummations\\CountingSummations.csproj|solutionrelative:countingsummations\\soluton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21673EF8-67C9-4A88-9ABE-78C3AD1C1D24}|SingularIntegerRightTriangles\\SingularIntegerRightTriangles.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\singularintegerrighttriangles\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21673EF8-67C9-4A88-9ABE-78C3AD1C1D24}|SingularIntegerRightTriangles\\SingularIntegerRightTriangles.csproj|solutionrelative:singularintegerrighttriangles\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C6FCCEF-9858-447E-B165-13D1CF1A4B5E}|PrimeSummations\\PrimeSummations.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\primesummations\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6FCCEF-9858-447E-B165-13D1CF1A4B5E}|PrimeSummations\\PrimeSummations.csproj|solutionrelative:primesummations\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C611A8-6228-4736-81D0-AF2922A23C92}|SquareRootConvergents\\SquareRootConvergents.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\squarerootconvergents\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C611A8-6228-4736-81D0-AF2922A23C92}|SquareRootConvergents\\SquareRootConvergents.csproj|solutionrelative:squarerootconvergents\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAE90F08-5FFA-4081-ACFB-7331AD3E43DD}|CountingSummations\\CountingSummations.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\countingsummations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE90F08-5FFA-4081-ACFB-7331AD3E43DD}|CountingSummations\\CountingSummations.csproj|solutionrelative:countingsummations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1099259-91A2-4E6E-A9FE-7CBA948D3FA0}|PowerfulDigitSum\\PowerfulDigitSum.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\powerfuldigitsum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1099259-91A2-4E6E-A9FE-7CBA948D3FA0}|PowerfulDigitSum\\PowerfulDigitSum.csproj|solutionrelative:powerfuldigitsum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCFFF65-F300-4B09-BE55-3B37F66FE576}|LychrelNumbers\\LychrelNumbers.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\lychrelnumbers\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCFFF65-F300-4B09-BE55-3B37F66FE576}|LychrelNumbers\\LychrelNumbers.csproj|solutionrelative:lychrelnumbers\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E94DF6C3-9C3F-43BF-8D91-9A5FF719C6D9}|CubicPermutations\\CubicPermutations.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\cubicpermutations\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E94DF6C3-9C3F-43BF-8D91-9A5FF719C6D9}|CubicPermutations\\CubicPermutations.csproj|solutionrelative:cubicpermutations\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7041ABB-3A38-4083-941C-A6D24FF640FA}|PowerfulDigitCounts\\PowerfulDigitCounts.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\powerfuldigitcounts\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7041ABB-3A38-4083-941C-A6D24FF640FA}|PowerfulDigitCounts\\PowerfulDigitCounts.csproj|solutionrelative:powerfuldigitcounts\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66406CA2-4259-44E0-974B-7BF844007EBE}|OrderedFractions\\OrderedFractions.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\orderedfractions\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66406CA2-4259-44E0-974B-7BF844007EBE}|OrderedFractions\\OrderedFractions.csproj|solutionrelative:orderedfractions\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75414B64-33CC-40B1-8591-AA8913A54C3F}|DistinctPowers\\DistinctPowers.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\distinctpowers\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75414B64-33CC-40B1-8591-AA8913A54C3F}|DistinctPowers\\DistinctPowers.csproj|solutionrelative:distinctpowers\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21673EF8-67C9-4A88-9ABE-78C3AD1C1D24}|SingularIntegerRightTriangles\\SingularIntegerRightTriangles.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\singularintegerrighttriangles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21673EF8-67C9-4A88-9ABE-78C3AD1C1D24}|SingularIntegerRightTriangles\\SingularIntegerRightTriangles.csproj|solutionrelative:singularintegerrighttriangles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C8BA15-2274-4E79-B06A-E1B5ADD0F0D9}|OddPeriodSquareRoots\\OddPeriodSquareRoots.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\oddperiodsquareroots\\oddperiodsquareroots.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C4C8BA15-2274-4E79-B06A-E1B5ADD0F0D9}|OddPeriodSquareRoots\\OddPeriodSquareRoots.csproj|solutionrelative:oddperiodsquareroots\\oddperiodsquareroots.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80145F62-0EE2-44CA-8A3F-5B991D774DB9}|DiophantineEquation\\DiophantineEquation.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\diophantineequation\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80145F62-0EE2-44CA-8A3F-5B991D774DB9}|DiophantineEquation\\DiophantineEquation.csproj|solutionrelative:diophantineequation\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{294911D1-A092-4D6F-8242-25621CC4D85C}|DigitFactorialChains\\DigitFactorialChains.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\digitfactorialchains\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{294911D1-A092-4D6F-8242-25621CC4D85C}|DigitFactorialChains\\DigitFactorialChains.csproj|solutionrelative:digitfactorialchains\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C6FCCEF-9858-447E-B165-13D1CF1A4B5E}|PrimeSummations\\PrimeSummations.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\primesummations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6FCCEF-9858-447E-B165-13D1CF1A4B5E}|PrimeSummations\\PrimeSummations.csproj|solutionrelative:primesummations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -126,206 +82,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CoinSums",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinSums\\CoinSums.csproj",
-              "RelativeDocumentMoniker": "CoinSums\\CoinSums.csproj",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinSums\\CoinSums.csproj",
-              "RelativeToolTip": "CoinSums\\CoinSums.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T16:06:46.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinSums\\Solution.cs",
-              "RelativeDocumentMoniker": "CoinSums\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinSums\\Solution.cs",
-              "RelativeToolTip": "CoinSums\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinPartitions\\Solution.cs",
+              "RelativeDocumentMoniker": "CoinPartitions\\Solution.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinPartitions\\Solution.cs",
+              "RelativeToolTip": "CoinPartitions\\Solution.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T15:54:30.263Z",
+              "WhenOpened": "2026-04-27T20:45:52.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Soluton.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Soluton.cs",
-              "RelativeDocumentMoniker": "CountingSummations\\Soluton.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Soluton.cs",
-              "RelativeToolTip": "CountingSummations\\Soluton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T15:38:50.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Program.cs",
-              "RelativeDocumentMoniker": "CountingSummations\\Program.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Program.cs",
-              "RelativeToolTip": "CountingSummations\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinPartitions\\Program.cs",
+              "RelativeDocumentMoniker": "CoinPartitions\\Program.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinPartitions\\Program.cs",
+              "RelativeToolTip": "CoinPartitions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T15:38:30.226Z",
+              "WhenOpened": "2026-04-27T20:45:40.846Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CubicPermutations\\Solution.cs",
-              "RelativeDocumentMoniker": "CubicPermutations\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CubicPermutations\\Solution.cs",
-              "RelativeToolTip": "CubicPermutations\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T21:10:33.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PowerfulDigitCounts\\Solution.cs",
-              "RelativeDocumentMoniker": "PowerfulDigitCounts\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PowerfulDigitCounts\\Solution.cs",
-              "RelativeToolTip": "PowerfulDigitCounts\\Solution.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T21:10:33.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OrderedFractions\\Solution.cs",
-              "RelativeDocumentMoniker": "OrderedFractions\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OrderedFractions\\Solution.cs",
-              "RelativeToolTip": "OrderedFractions\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T22:32:30.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\DistinctPowers\\Solution.cs",
-              "RelativeDocumentMoniker": "DistinctPowers\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\DistinctPowers\\Solution.cs",
-              "RelativeToolTip": "DistinctPowers\\Solution.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAqwGgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T22:29:00.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "OddPeriodSquareRoots.csproj",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OddPeriodSquareRoots\\OddPeriodSquareRoots.csproj",
-              "RelativeDocumentMoniker": "OddPeriodSquareRoots\\OddPeriodSquareRoots.csproj",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\OddPeriodSquareRoots\\OddPeriodSquareRoots.csproj",
-              "RelativeToolTip": "OddPeriodSquareRoots\\OddPeriodSquareRoots.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-23T21:05:25.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\LychrelNumbers\\Solution.cs",
-              "RelativeDocumentMoniker": "LychrelNumbers\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\LychrelNumbers\\Solution.cs",
-              "RelativeToolTip": "LychrelNumbers\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T21:04:57.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PowerfulDigitSum\\Solution.cs",
-              "RelativeDocumentMoniker": "PowerfulDigitSum\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PowerfulDigitSum\\Solution.cs",
-              "RelativeToolTip": "PowerfulDigitSum\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T21:04:52.325Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\SquareRootConvergents\\Solution.cs",
-              "RelativeDocumentMoniker": "SquareRootConvergents\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\SquareRootConvergents\\Solution.cs",
-              "RelativeToolTip": "SquareRootConvergents\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimeSummations\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeSummations\\Program.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimeSummations\\Program.cs",
+              "RelativeToolTip": "PrimeSummations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T21:04:29.624Z",
+              "WhenOpened": "2026-04-27T16:10:56.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\SingularIntegerRightTriangles\\Solution.cs",
-              "RelativeDocumentMoniker": "SingularIntegerRightTriangles\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\SingularIntegerRightTriangles\\Solution.cs",
-              "RelativeToolTip": "SingularIntegerRightTriangles\\Solution.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T20:58:46.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\SingularIntegerRightTriangles\\Program.cs",
-              "RelativeDocumentMoniker": "SingularIntegerRightTriangles\\Program.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\SingularIntegerRightTriangles\\Program.cs",
-              "RelativeToolTip": "SingularIntegerRightTriangles\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Program.cs",
+              "RelativeDocumentMoniker": "CountingSummations\\Program.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Program.cs",
+              "RelativeToolTip": "CountingSummations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T20:58:32.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\DiophantineEquation\\Solution.cs",
-              "RelativeDocumentMoniker": "DiophantineEquation\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\DiophantineEquation\\Solution.cs",
-              "RelativeToolTip": "DiophantineEquation\\Solution.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T17:40:32.008Z",
+              "WhenOpened": "2026-04-27T15:04:26.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\DigitFactorialChains\\Solution.cs",
-              "RelativeDocumentMoniker": "DigitFactorialChains\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\DigitFactorialChains\\Solution.cs",
-              "RelativeToolTip": "DigitFactorialChains\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Soluton.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Soluton.cs",
+              "RelativeDocumentMoniker": "CountingSummations\\Soluton.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Soluton.cs",
+              "RelativeToolTip": "CountingSummations\\Soluton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T17:15:02.688Z",
+              "WhenOpened": "2026-04-27T14:55:41.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimeSummations\\Solution.cs",
+              "RelativeDocumentMoniker": "PrimeSummations\\Solution.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimeSummations\\Solution.cs",
+              "RelativeToolTip": "PrimeSummations\\Solution.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:49:03.949Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\bin\Debug\net10.0\CoinPartitions.exe
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\bin\Debug\net10.0\CoinPartitions.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\bin\Debug\net10.0\CoinPartitions.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\bin\Debug\net10.0\CoinPartitions.dll
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\bin\Debug\net10.0\CoinPartitions.pdb
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\obj\Debug\net10.0\CoinPartitions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\obj\Debug\net10.0\CoinPartitions.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\obj\Debug\net10.0\CoinPartitions.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\obj\Debug\net10.0\CoinPartitions.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\obj\Debug\net10.0\CoinPartitions.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\obj\Debug\net10.0\CoinPartitions.dll
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\obj\Debug\net10.0\refint\CoinPartitions.dll
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\obj\Debug\net10.0\CoinPartitions.pdb
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\obj\Debug\net10.0\CoinPartitions.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CoinPartitions\obj\Debug\net10.0\ref\CoinPartitions.dll
