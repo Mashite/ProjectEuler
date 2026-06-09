@@ -1,0 +1,16 @@
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\bin\Debug\net10.0\Path Sum Three Ways.exe
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\bin\Debug\net10.0\matrix.txt
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\bin\Debug\net10.0\Path Sum Three Ways.deps.json
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\bin\Debug\net10.0\Path Sum Three Ways.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\bin\Debug\net10.0\Path Sum Three Ways.dll
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\bin\Debug\net10.0\Path Sum Three Ways.pdb
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\obj\Debug\net10.0\Path Sum Three Ways.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\obj\Debug\net10.0\Path Sum Three Ways.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\obj\Debug\net10.0\Path Sum Three Ways.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\obj\Debug\net10.0\Path Sum Three Ways.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\obj\Debug\net10.0\Path Sum Three Ways.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\obj\Debug\net10.0\Path Sum Three Ways.dll
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\obj\Debug\net10.0\refint\Path Sum Three Ways.dll
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\obj\Debug\net10.0\Path Sum Three Ways.pdb
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\obj\Debug\net10.0\Path Sum Three Ways.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Three Ways\obj\Debug\net10.0\ref\Path Sum Three Ways.dll

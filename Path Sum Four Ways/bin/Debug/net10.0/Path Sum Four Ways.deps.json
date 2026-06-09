@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Path Sum Four Ways/1.0.0": {
+        "runtime": {
+          "Path Sum Four Ways.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Path Sum Four Ways/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

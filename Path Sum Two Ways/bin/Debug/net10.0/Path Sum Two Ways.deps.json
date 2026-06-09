@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Path Sum Two Ways/1.0.0": {
+        "runtime": {
+          "Path Sum Two Ways.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Path Sum Two Ways/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

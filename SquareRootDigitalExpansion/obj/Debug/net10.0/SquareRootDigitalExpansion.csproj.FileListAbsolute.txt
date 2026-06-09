@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\bin\Debug\net10.0\SquareRootDigitalExpansion.exe
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\bin\Debug\net10.0\SquareRootDigitalExpansion.deps.json
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\bin\Debug\net10.0\SquareRootDigitalExpansion.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\bin\Debug\net10.0\SquareRootDigitalExpansion.dll
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\bin\Debug\net10.0\SquareRootDigitalExpansion.pdb
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\obj\Debug\net10.0\SquareRootDigitalExpansion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\obj\Debug\net10.0\SquareRootDigitalExpansion.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\obj\Debug\net10.0\SquareRootDigitalExpansion.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\obj\Debug\net10.0\SquareRootDigitalExpansion.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\obj\Debug\net10.0\SquareRootDigitalExpansion.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\obj\Debug\net10.0\SquareRootDigitalExpansion.dll
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\obj\Debug\net10.0\refint\SquareRootDigitalExpansion.dll
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\obj\Debug\net10.0\SquareRootDigitalExpansion.pdb
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\obj\Debug\net10.0\SquareRootDigitalExpansion.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\SquareRootDigitalExpansion\obj\Debug\net10.0\ref\SquareRootDigitalExpansion.dll

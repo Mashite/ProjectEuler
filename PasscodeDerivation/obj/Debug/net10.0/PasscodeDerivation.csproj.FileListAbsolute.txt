@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\bin\Debug\net10.0\PasscodeDerivation.exe
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\bin\Debug\net10.0\PasscodeDerivation.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\bin\Debug\net10.0\PasscodeDerivation.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\bin\Debug\net10.0\PasscodeDerivation.dll
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\bin\Debug\net10.0\PasscodeDerivation.pdb
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\obj\Debug\net10.0\PasscodeDerivation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\obj\Debug\net10.0\PasscodeDerivation.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\obj\Debug\net10.0\PasscodeDerivation.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\obj\Debug\net10.0\PasscodeDerivation.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\obj\Debug\net10.0\PasscodeDerivation.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\obj\Debug\net10.0\PasscodeDerivation.dll
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\obj\Debug\net10.0\refint\PasscodeDerivation.dll
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\obj\Debug\net10.0\PasscodeDerivation.pdb
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\obj\Debug\net10.0\PasscodeDerivation.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PasscodeDerivation\obj\Debug\net10.0\ref\PasscodeDerivation.dll

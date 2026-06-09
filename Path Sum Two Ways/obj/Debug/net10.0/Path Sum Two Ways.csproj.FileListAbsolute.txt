@@ -1,0 +1,16 @@
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\bin\Debug\net10.0\Path Sum Two Ways.exe
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\bin\Debug\net10.0\Path Sum Two Ways.deps.json
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\bin\Debug\net10.0\Path Sum Two Ways.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\bin\Debug\net10.0\Path Sum Two Ways.dll
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\bin\Debug\net10.0\Path Sum Two Ways.pdb
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\obj\Debug\net10.0\Path Sum Two Ways.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\obj\Debug\net10.0\Path Sum Two Ways.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\obj\Debug\net10.0\Path Sum Two Ways.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\obj\Debug\net10.0\Path Sum Two Ways.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\obj\Debug\net10.0\Path Sum Two Ways.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\obj\Debug\net10.0\Path Sum Two Ways.dll
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\obj\Debug\net10.0\refint\Path Sum Two Ways.dll
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\obj\Debug\net10.0\Path Sum Two Ways.pdb
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\obj\Debug\net10.0\Path Sum Two Ways.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\obj\Debug\net10.0\ref\Path Sum Two Ways.dll
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Two Ways\bin\Debug\net10.0\matrix.txt

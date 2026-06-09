@@ -1,0 +1,16 @@
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\bin\Debug\net10.0\Path Sum Four Ways.exe
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\bin\Debug\net10.0\matrix.txt
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\bin\Debug\net10.0\Path Sum Four Ways.deps.json
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\bin\Debug\net10.0\Path Sum Four Ways.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\bin\Debug\net10.0\Path Sum Four Ways.dll
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\bin\Debug\net10.0\Path Sum Four Ways.pdb
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\obj\Debug\net10.0\Path Sum Four Ways.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\obj\Debug\net10.0\Path Sum Four Ways.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\obj\Debug\net10.0\Path Sum Four Ways.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\obj\Debug\net10.0\Path Sum Four Ways.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\obj\Debug\net10.0\Path Sum Four Ways.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\obj\Debug\net10.0\Path Sum Four Ways.dll
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\obj\Debug\net10.0\refint\Path Sum Four Ways.dll
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\obj\Debug\net10.0\Path Sum Four Ways.pdb
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\obj\Debug\net10.0\Path Sum Four Ways.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\Path Sum Four Ways\obj\Debug\net10.0\ref\Path Sum Four Ways.dll
