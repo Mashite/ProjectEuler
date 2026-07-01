@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\bin\Debug\net10.0\MonopolyOdds.exe
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\bin\Debug\net10.0\MonopolyOdds.deps.json
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\bin\Debug\net10.0\MonopolyOdds.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\bin\Debug\net10.0\MonopolyOdds.dll
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\bin\Debug\net10.0\MonopolyOdds.pdb
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\obj\Debug\net10.0\MonopolyOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\obj\Debug\net10.0\MonopolyOdds.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\obj\Debug\net10.0\MonopolyOdds.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\obj\Debug\net10.0\MonopolyOdds.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\obj\Debug\net10.0\MonopolyOdds.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\obj\Debug\net10.0\MonopolyOdds.dll
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\obj\Debug\net10.0\refint\MonopolyOdds.dll
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\obj\Debug\net10.0\MonopolyOdds.pdb
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\obj\Debug\net10.0\MonopolyOdds.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\MonopolyOdds\obj\Debug\net10.0\ref\MonopolyOdds.dll

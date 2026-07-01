@@ -312,6 +312,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-83", "Problem-83", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Path Sum Four Ways", "Path Sum Four Ways\Path Sum Four Ways.csproj", "{E215D67C-3660-444E-8918-7BA827E3EA11}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem-84", "Problem-84", "{2BA2897F-31B0-4B9D-9BAF-3189A2BDC02F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonopolyOdds", "MonopolyOdds\MonopolyOdds.csproj", "{0D8EBBC5-C87F-4429-81F8-FE17A739A449}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -622,6 +626,10 @@ Global
 		{E215D67C-3660-444E-8918-7BA827E3EA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E215D67C-3660-444E-8918-7BA827E3EA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E215D67C-3660-444E-8918-7BA827E3EA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8EBBC5-C87F-4429-81F8-FE17A739A449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8EBBC5-C87F-4429-81F8-FE17A739A449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8EBBC5-C87F-4429-81F8-FE17A739A449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8EBBC5-C87F-4429-81F8-FE17A739A449}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -703,6 +711,7 @@ Global
 		{D6302455-01DE-4BDD-AF22-79E733911420} = {0959545E-D128-453B-9DE4-E5145F5E70C4}
 		{63DAD2C0-A376-4C11-8F5E-526040AE72FE} = {A676FE11-0F1A-494C-AF94-037B50B1E5E8}
 		{E215D67C-3660-444E-8918-7BA827E3EA11} = {75F25844-7598-4045-95FA-05CF2B5FE5B6}
+		{0D8EBBC5-C87F-4429-81F8-FE17A739A449} = {2BA2897F-31B0-4B9D-9BAF-3189A2BDC02F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F98009D6-9FCA-4B0F-8A99-634F580E4DF7}

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D8EBBC5-C87F-4429-81F8-FE17A739A449}|MonopolyOdds\\MonopolyOdds.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\monopolyodds\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8EBBC5-C87F-4429-81F8-FE17A739A449}|MonopolyOdds\\MonopolyOdds.csproj|solutionrelative:monopolyodds\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8EBBC5-C87F-4429-81F8-FE17A739A449}|MonopolyOdds\\MonopolyOdds.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\monopolyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8EBBC5-C87F-4429-81F8-FE17A739A449}|MonopolyOdds\\MonopolyOdds.csproj|solutionrelative:monopolyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E215D67C-3660-444E-8918-7BA827E3EA11}|Path Sum Four Ways\\Path Sum Four Ways.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\path sum four ways\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E215D67C-3660-444E-8918-7BA827E3EA11}|Path Sum Four Ways\\Path Sum Four Ways.csproj|solutionrelative:path sum four ways\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -116,18 +124,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\MonopolyOdds\\Solution.cs",
+              "RelativeDocumentMoniker": "MonopolyOdds\\Solution.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\MonopolyOdds\\Solution.cs",
+              "RelativeToolTip": "MonopolyOdds\\Solution.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwGoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T18:37:14.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\MonopolyOdds\\Program.cs",
+              "RelativeDocumentMoniker": "MonopolyOdds\\Program.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\MonopolyOdds\\Program.cs",
+              "RelativeToolTip": "MonopolyOdds\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T18:36:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Four Ways\\Solution.cs",
               "RelativeDocumentMoniker": "Path Sum Four Ways\\Solution.cs",
               "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Four Ways\\Solution.cs",
               "RelativeToolTip": "Path Sum Four Ways\\Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-09T16:57:00.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Four Ways\\Program.cs",
               "RelativeDocumentMoniker": "Path Sum Four Ways\\Program.cs",
@@ -135,12 +169,11 @@
               "RelativeToolTip": "Path Sum Four Ways\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T16:55:56.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T16:55:56.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Three Ways\\Solution.cs",
               "RelativeDocumentMoniker": "Path Sum Three Ways\\Solution.cs",
@@ -153,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Three Ways\\Program.cs",
               "RelativeDocumentMoniker": "Path Sum Three Ways\\Program.cs",
@@ -166,20 +199,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Path Sum Two Ways",
+              "DocumentIndex": 9,
+              "Title": "Path Sum Two Ways.csproj",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Two Ways\\Path Sum Two Ways.csproj",
               "RelativeDocumentMoniker": "Path Sum Two Ways\\Path Sum Two Ways.csproj",
               "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Two Ways\\Path Sum Two Ways.csproj",
               "RelativeToolTip": "Path Sum Two Ways\\Path Sum Two Ways.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-03T22:35:51.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T22:35:51.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Two Ways\\Solution.cs",
               "RelativeDocumentMoniker": "Path Sum Two Ways\\Solution.cs",
@@ -187,12 +219,11 @@
               "RelativeToolTip": "Path Sum Two Ways\\Solution.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T22:36:36.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T22:36:36.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Two Ways\\Program.cs",
               "RelativeDocumentMoniker": "Path Sum Two Ways\\Program.cs",
@@ -200,12 +231,11 @@
               "RelativeToolTip": "Path Sum Two Ways\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T20:57:45.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T20:57:45.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\SquareRootDigitalExpansion\\Solution.cs",
               "RelativeDocumentMoniker": "SquareRootDigitalExpansion\\Solution.cs",
@@ -218,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\SquareRootDigitalExpansion\\Program.cs",
               "RelativeDocumentMoniker": "SquareRootDigitalExpansion\\Program.cs",
@@ -226,12 +256,11 @@
               "RelativeToolTip": "SquareRootDigitalExpansion\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T20:45:35.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T20:45:35.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinPartitions\\Solution.cs",
               "RelativeDocumentMoniker": "CoinPartitions\\Solution.cs",
@@ -244,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinPartitions\\Program.cs",
               "RelativeDocumentMoniker": "CoinPartitions\\Program.cs",
@@ -256,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimeSummations\\Program.cs",
               "RelativeDocumentMoniker": "PrimeSummations\\Program.cs",
@@ -268,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Program.cs",
               "RelativeDocumentMoniker": "CountingSummations\\Program.cs",
@@ -281,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Soluton.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Soluton.cs",
               "RelativeDocumentMoniker": "CountingSummations\\Soluton.cs",
@@ -294,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimeSummations\\Solution.cs",
               "RelativeDocumentMoniker": "PrimeSummations\\Solution.cs",
