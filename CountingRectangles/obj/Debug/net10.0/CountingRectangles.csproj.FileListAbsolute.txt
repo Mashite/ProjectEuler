@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\bin\Debug\net10.0\CountingRectangles.exe
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\bin\Debug\net10.0\CountingRectangles.deps.json
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\bin\Debug\net10.0\CountingRectangles.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\bin\Debug\net10.0\CountingRectangles.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\bin\Debug\net10.0\CountingRectangles.pdb
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\obj\Debug\net10.0\CountingRectangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\obj\Debug\net10.0\CountingRectangles.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\obj\Debug\net10.0\CountingRectangles.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\obj\Debug\net10.0\CountingRectangles.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\obj\Debug\net10.0\CountingRectangles.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\obj\Debug\net10.0\CountingRectangles.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\obj\Debug\net10.0\refint\CountingRectangles.dll
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\obj\Debug\net10.0\CountingRectangles.pdb
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\obj\Debug\net10.0\CountingRectangles.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\CountingRectangles\obj\Debug\net10.0\ref\CountingRectangles.dll

@@ -1,0 +1,15 @@
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\bin\Debug\net10.0\PrimePowerTriples.exe
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\bin\Debug\net10.0\PrimePowerTriples.deps.json
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\bin\Debug\net10.0\PrimePowerTriples.runtimeconfig.json
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\bin\Debug\net10.0\PrimePowerTriples.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\bin\Debug\net10.0\PrimePowerTriples.pdb
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\obj\Debug\net10.0\PrimePowerTriples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\obj\Debug\net10.0\PrimePowerTriples.AssemblyInfoInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\obj\Debug\net10.0\PrimePowerTriples.AssemblyInfo.cs
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\obj\Debug\net10.0\PrimePowerTriples.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\obj\Debug\net10.0\PrimePowerTriples.sourcelink.json
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\obj\Debug\net10.0\PrimePowerTriples.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\obj\Debug\net10.0\refint\PrimePowerTriples.dll
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\obj\Debug\net10.0\PrimePowerTriples.pdb
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\obj\Debug\net10.0\PrimePowerTriples.genruntimeconfig.cache
+C:\Users\masit\source\repos\ProjectEuler\PrimePowerTriples\obj\Debug\net10.0\ref\PrimePowerTriples.dll
