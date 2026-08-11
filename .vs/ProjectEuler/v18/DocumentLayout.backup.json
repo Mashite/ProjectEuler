@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A50435D3-4C76-4C65-9D68-1AF4A036D38D}|Problem87\\Problem87.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\problem87\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50435D3-4C76-4C65-9D68-1AF4A036D38D}|Problem87\\Problem87.csproj|solutionrelative:problem87\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50435D3-4C76-4C65-9D68-1AF4A036D38D}|Problem87\\Problem87.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\problem87\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50435D3-4C76-4C65-9D68-1AF4A036D38D}|Problem87\\Problem87.csproj|solutionrelative:problem87\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014BCCD5-F0AA-4EB9-803F-5CBA8BDFB862}|GenerateFramework\\GenerateFramework.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\generateframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014BCCD5-F0AA-4EB9-803F-5CBA8BDFB862}|GenerateFramework\\GenerateFramework.csproj|solutionrelative:generateframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62EC3B15-B2B1-430D-B70A-3269D75C92FD}|PrimePowerTriples\\PrimePowerTriples.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\primepowertriples\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62EC3B15-B2B1-430D-B70A-3269D75C92FD}|PrimePowerTriples\\PrimePowerTriples.csproj|solutionrelative:primepowertriples\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62EC3B15-B2B1-430D-B70A-3269D75C92FD}|PrimePowerTriples\\PrimePowerTriples.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\primepowertriples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62EC3B15-B2B1-430D-B70A-3269D75C92FD}|PrimePowerTriples\\PrimePowerTriples.csproj|solutionrelative:primepowertriples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{014BCCD5-F0AA-4EB9-803F-5CBA8BDFB862}|GenerateFramework\\GenerateFramework.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\generateframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{014BCCD5-F0AA-4EB9-803F-5CBA8BDFB862}|GenerateFramework\\GenerateFramework.csproj|solutionrelative:generateframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97CFDE5E-8B04-4015-A785-D30262E15AA7}|CountingRectangles\\CountingRectangles.csproj|c:\\users\\masit\\source\\repos\\projecteuler\\countingrectangles\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,7 +150,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Problem87\\Solution.cs",
+              "RelativeDocumentMoniker": "Problem87\\Solution.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Problem87\\Solution.cs*",
+              "RelativeToolTip": "Problem87\\Solution.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T14:53:14.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Problem87\\Program.cs",
+              "RelativeDocumentMoniker": "Problem87\\Program.cs",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Problem87\\Program.cs",
+              "RelativeToolTip": "Problem87\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T14:53:12.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimePowerTriples\\Program.cs",
               "RelativeDocumentMoniker": "PrimePowerTriples\\Program.cs",
@@ -150,18 +184,17 @@
               "RelativeToolTip": "PrimePowerTriples\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T19:15:25.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-21T19:15:25.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimePowerTriples\\Solution.cs",
               "RelativeDocumentMoniker": "PrimePowerTriples\\Solution.cs",
-              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimePowerTriples\\Solution.cs*",
-              "RelativeToolTip": "PrimePowerTriples\\Solution.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimePowerTriples\\Solution.cs",
+              "RelativeToolTip": "PrimePowerTriples\\Solution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-21T19:15:23.087Z",
               "EditorCaption": ""
@@ -174,13 +207,14 @@
               "RelativeDocumentMoniker": "GenerateFramework\\Program.cs",
               "ToolTip": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\GenerateFramework\\Program.cs",
               "RelativeToolTip": "GenerateFramework\\Program.cs",
-              "ViewState": "AgIAAKEAAAAAAAAAAADgv3oAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T19:13:58.964Z"
+              "WhenOpened": "2026-07-21T19:13:58.964Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingRectangles\\Solution.cs",
               "RelativeDocumentMoniker": "CountingRectangles\\Solution.cs",
@@ -193,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingRectangles\\Program.cs",
               "RelativeDocumentMoniker": "CountingRectangles\\Program.cs",
@@ -205,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\MonopolyOdds\\Solution.cs",
               "RelativeDocumentMoniker": "MonopolyOdds\\Solution.cs",
@@ -218,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\MonopolyOdds\\Program.cs",
               "RelativeDocumentMoniker": "MonopolyOdds\\Program.cs",
@@ -231,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Four Ways\\Solution.cs",
               "RelativeDocumentMoniker": "Path Sum Four Ways\\Solution.cs",
@@ -244,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Four Ways\\Program.cs",
               "RelativeDocumentMoniker": "Path Sum Four Ways\\Program.cs",
@@ -256,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Three Ways\\Solution.cs",
               "RelativeDocumentMoniker": "Path Sum Three Ways\\Solution.cs",
@@ -269,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Three Ways\\Program.cs",
               "RelativeDocumentMoniker": "Path Sum Three Ways\\Program.cs",
@@ -282,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Path Sum Two Ways.csproj",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Two Ways\\Path Sum Two Ways.csproj",
               "RelativeDocumentMoniker": "Path Sum Two Ways\\Path Sum Two Ways.csproj",
@@ -294,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Two Ways\\Solution.cs",
               "RelativeDocumentMoniker": "Path Sum Two Ways\\Solution.cs",
@@ -306,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\Path Sum Two Ways\\Program.cs",
               "RelativeDocumentMoniker": "Path Sum Two Ways\\Program.cs",
@@ -318,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\SquareRootDigitalExpansion\\Solution.cs",
               "RelativeDocumentMoniker": "SquareRootDigitalExpansion\\Solution.cs",
@@ -331,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\SquareRootDigitalExpansion\\Program.cs",
               "RelativeDocumentMoniker": "SquareRootDigitalExpansion\\Program.cs",
@@ -343,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinPartitions\\Solution.cs",
               "RelativeDocumentMoniker": "CoinPartitions\\Solution.cs",
@@ -356,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CoinPartitions\\Program.cs",
               "RelativeDocumentMoniker": "CoinPartitions\\Program.cs",
@@ -368,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimeSummations\\Program.cs",
               "RelativeDocumentMoniker": "PrimeSummations\\Program.cs",
@@ -380,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Program.cs",
               "RelativeDocumentMoniker": "CountingSummations\\Program.cs",
@@ -393,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Soluton.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\CountingSummations\\Soluton.cs",
               "RelativeDocumentMoniker": "CountingSummations\\Soluton.cs",
@@ -406,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\masit\\source\\repos\\ProjectEuler\\PrimeSummations\\Solution.cs",
               "RelativeDocumentMoniker": "PrimeSummations\\Solution.cs",
